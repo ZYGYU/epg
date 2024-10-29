@@ -3,7 +3,7 @@ name: player.ee.co.uk
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Adjust schedule as needed
+    - cron: "35 0 * * *"  # Adjust schedule as needed
 
 jobs:
   epg_update:
