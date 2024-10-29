@@ -1,0 +1,43 @@
+name: EPG Update and Upload
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Schedule as needed
+
+jobs:
+  epg_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Clone EPG Repository
+        run: |
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git
+          cd epg
+          npm install
+
+      - name: Generate EPG Output for player.ee.co.uk
+        run: |
+          cd epg
+          npm run grab -- --site=player.ee.co.uk  # Specific site configuration
+
+      - name: Commit and Push EPG Output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd epg
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          mv guide.xml ../  # Move guide.xml to the root directory
+          cd ..
+          git add guide.xml
+          git commit -m "Update EPG output for player.ee.co.uk [skip ci]"
+          git push origin master  # Change 'main' to your preferred branch if needed
