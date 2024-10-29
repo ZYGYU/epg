@@ -22,18 +22,14 @@ jobs:
           cd epg
           npm install
 
-      - name: Generate EPG Output for visionplus.id
-        run: |
-          cd epg
-          npm run grab -- --site=visionplus.id
-          mv guide.xml ../channel/visionplus.id.xml
-
       - name: Commit and Push EPG Output to Your Repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git pull origin master --rebase
           git add channel/visionplus.id.xml
-          git commit -m "Update EPG output for visionplus.id [skip ci]"
+          git commit -m "Update EPG output for visionplus.id [skip ci]" || echo "No changes to commit"
           git push origin master
