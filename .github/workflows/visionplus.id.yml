@@ -36,7 +36,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin master
+          git stash  # Stash any local changes
           git pull origin master --rebase
+          git stash pop  # Re-apply stashed changes after the pull
           git add channel/visionplus.id.xml
           git commit -m "Update EPG output for visionplus.id [skip ci]" || echo "No changes to commit"
           git push origin master
