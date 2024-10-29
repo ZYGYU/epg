@@ -3,7 +3,7 @@ name: EPG Update for visionplus.id
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "0 1 * * *"  # Runs every day at midnight
 
 jobs:
   update_visionplus:
