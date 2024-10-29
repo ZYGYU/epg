@@ -1,4 +1,4 @@
-name: EPG Update and Upload
+name: player.ee.co.uk
 
 on:
   workflow_dispatch:
