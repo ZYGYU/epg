@@ -3,7 +3,7 @@ name: EPG Update for indihometv.com
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight
+    - cron: "25 0 * * *"  # Runs every day at midnight
 
 jobs:
   update_indihometv:
