@@ -1,32 +1,40 @@
-name: EPG Update
+name: EPG Update and Upload
 
 on:
-  workflow_dispatch:  # This allows manual triggering of the workflow
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Run every day at midnight
 
 jobs:
-  update-epg:
+  epg_update:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Install Git
-      run: sudo apt-get install -y git
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
 
-    - name: Clone EPG repository
-      run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git
+      - name: Clone EPG Repository
+        run: |
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git
+          cd epg
+          npm install
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      - name: Generate EPG Output for player.ee.co.uk
+        run: |
+          cd epg
+          npm run grab -- --site=player.ee.co.uk  # Specific to player.ee.co.uk
 
-    - name: Install dependencies
-      working-directory: ./epg
-      run: npm install
+      - name: Setup Rclone
+        run: |
+          curl https://rclone.org/install.sh | sudo bash
+          mkdir -p ~/.config/rclone
+          echo "${{ secrets.RCLONE_CONFIG }}" > ~/.config/rclone/rclone.conf
 
-    - name: Run EPG update
-      working-directory: ./epg
-      run: npm run grab -- --site=player.ee.co.uk
- 
+      - name: Upload EPG Output to Rclone
+        run: |
+          rclone copy epg/guide.xml tb:echo/Trash/EPG --quiet
