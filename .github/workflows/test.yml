@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit and Push EPG Output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           cd epg
           git config --global user.name "github-actions[bot]"
