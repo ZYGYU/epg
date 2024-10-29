@@ -79,8 +79,8 @@ jobs:
 
       - run: npm install
 
-      - name: Grab EPG for cubmu
-        run: npm run grab -- --site=cubmu --lang=id --output=channel/cubmu.xml
+      - name: Grab EPG for cubmu.com
+        run: npm run grab -- --site=cubmu.com --lang=id --output=channel/cubmu.com.xml
 
       - name: Commit and Push EPG Output for cubmu
         env:
@@ -92,7 +92,7 @@ jobs:
           git stash
           git pull origin master --rebase
           git stash pop
-          git add channel/cubmu.xml
+          git add channel/cubmu.com.xml
           git commit -m "Update EPG output for cubmu [skip ci]" || echo "No changes to commit"
           git push origin master
 
