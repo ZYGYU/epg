@@ -1,0 +1,43 @@
+name: EPG Update for playtv.unifi.com.my
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"  # Runs every day at 2 AM UTC
+
+jobs:
+  update_playtv_unifi:
+    name: EPG Update for playtv.unifi.com.my
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Your Repository
+        uses: actions/checkout@v2
+        with:
+          repository: 'ZYGYU/epg'
+
+      - name: Clone EPG Repository
+        run: |
+          git clone --depth 1 -b master https://github.com/iptv-org/epg.git epg
+          cd epg
+          npm install
+
+      - name: Generate EPG Output for playtv.unifi.com.my
+        run: |
+          cd epg
+          npm run grab -- --site=playtv.unifi.com.my --lang=en
+          mv guide.xml ../channel/playtv.unifi.com.my.xml
+
+      - name: Commit and Push EPG Output to Your Repository
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git stash  # Stash any local changes
+          git pull origin master --rebase
+          git stash pop  # Re-apply stashed changes after the pull
+          git add channel/playtv.unifi.com.my.xml
+          git commit -m "Update EPG output for playtv.unifi.com.my [skip ci]" || echo "No changes to commit"
+          git push origin master
