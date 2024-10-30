@@ -34,6 +34,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin master
+          git stash  # Stash any local changes
+          git pull origin master --rebase
+          git stash pop  # Re-apply stashed changes after the pull
           git add channel/mncvision.id.xml
-          git commit -m "Update EPG output for mncvision.id [skip ci]"
+          git commit -m "Update EPG output for mncvision.id [skip ci]" || echo "No changes to commit"
           git push origin master
