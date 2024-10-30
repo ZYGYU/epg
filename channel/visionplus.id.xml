@@ -1375,15 +1375,15 @@
 <programme start="20241030075000 +0000" stop="20241030094000 +0000" channel="CCM.hk"><title lang="en">The Dream Of The Red Chamber</title></programme>
 <programme start="20241030094000 +0000" stop="20241030112000 +0000" channel="CCM.hk"><title lang="en">Murder Plot</title></programme>
 <programme start="20241030112000 +0000" stop="20241030130000 +0000" channel="CCM.hk"><title lang="en">Forever Diamonds</title></programme>
-<programme start="20241030130000 +0000" stop="20241030150000 +0000" channel="CCM.hk"><title lang="en">That Man In Chang-An</title></programme>
-<programme start="20241030150000 +0000" stop="20241030164000 +0000" channel="CCM.hk"><title lang="en">Moods Of Love</title></programme>
-<programme start="20241030164000 +0000" stop="20241030182500 +0000" channel="CCM.hk"><title lang="en">Iron Bodyguard</title></programme>
-<programme start="20241030182500 +0000" stop="20241030201500 +0000" channel="CCM.hk"><title lang="en">Lady General Hua Mu-Lan</title></programme>
-<programme start="20241030201500 +0000" stop="20241030215500 +0000" channel="CCM.hk"><title lang="en">Pursuit Of Vengeance</title></programme>
-<programme start="20241030215500 +0000" stop="20241030233500 +0000" channel="CCM.hk"><title lang="en">Twinkle Twinkle Little Star</title></programme>
-<programme start="20241030233500 +0000" stop="20241031011000 +0000" channel="CCM.hk"><title lang="en">The Tiger And The Widow</title></programme>
-<programme start="20241031011000 +0000" stop="20241031024000 +0000" channel="CCM.hk"><title lang="en">The Dragon Missile</title></programme>
-<programme start="20241031024000 +0000" stop="20241031042500 +0000" channel="CCM.hk"><title lang="en">The House Of 72 Tenants</title></programme>
+<programme start="20241030130000 +0000" stop="20241030145500 +0000" channel="CCM.hk"><title lang="en">The Wandering Swordsman</title></programme>
+<programme start="20241030145500 +0000" stop="20241030163500 +0000" channel="CCM.hk"><title lang="en">Moods Of Love</title></programme>
+<programme start="20241030163500 +0000" stop="20241030182000 +0000" channel="CCM.hk"><title lang="en">Iron Bodyguard</title></programme>
+<programme start="20241030182000 +0000" stop="20241030201000 +0000" channel="CCM.hk"><title lang="en">Lady General Hua Mu-Lan</title></programme>
+<programme start="20241030201000 +0000" stop="20241030215000 +0000" channel="CCM.hk"><title lang="en">Pursuit Of Vengeance</title></programme>
+<programme start="20241030215000 +0000" stop="20241030233000 +0000" channel="CCM.hk"><title lang="en">Twinkle Twinkle Little Star</title></programme>
+<programme start="20241030233000 +0000" stop="20241031010500 +0000" channel="CCM.hk"><title lang="en">The Tiger And The Widow</title></programme>
+<programme start="20241031010500 +0000" stop="20241031023500 +0000" channel="CCM.hk"><title lang="en">The Dragon Missile</title></programme>
+<programme start="20241031023500 +0000" stop="20241031042500 +0000" channel="CCM.hk"><title lang="en">The House Of 72 Tenants</title></programme>
 <programme start="20241031042500 +0000" stop="20241031055500 +0000" channel="CCM.hk"><title lang="en">Heroes Of Sung</title></programme>
 <programme start="20241031055500 +0000" stop="20241031075500 +0000" channel="CCM.hk"><title lang="en">Whose Baby Is In Classroom?</title></programme>
 <programme start="20241031075500 +0000" stop="20241031093000 +0000" channel="CCM.hk"><title lang="en">Gambler&apos;s Delight</title></programme>
@@ -1704,7 +1704,7 @@
 <programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="CGTNDocumentary.cn"><title lang="en">Wisdom Of Traditional..., Ep 10</title></programme>
 <programme start="20241031150000 +0000" stop="20241031153000 +0000" channel="CGTNDocumentary.cn"><title lang="en">Women Of Xiangjiang..., Ep 2</title></programme>
 <programme start="20241031153000 +0000" stop="20241031160000 +0000" channel="CGTNDocumentary.cn"><title lang="en">Harmony Of Lake &amp; Sea: Xiamen</title></programme>
-<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="CGTNDocumentary.cn"><title lang="en">CGTN Documentary</title></programme>
+<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="CGTNDocumentary.cn"><title lang="en">Secrets Of The Rainforest, Ep 3</title></programme>
 <programme start="20241029170700 +0000" stop="20241029171700 +0000" channel="Cinemachi.uk"><title lang="en">7 Riverdale Fans Explain Why...</title></programme>
 <programme start="20241029171700 +0000" stop="20241029185600 +0000" channel="Cinemachi.uk"><title lang="en">Cinemachi Platinum</title></programme>
 <programme start="20241029185600 +0000" stop="20241029190200 +0000" channel="Cinemachi.uk"><title lang="en">73 Questions With D. Radcliffe</title></programme>
@@ -5939,9 +5939,10 @@
 <programme start="20241030090000 +0000" stop="20241030093000 +0000" channel="SindoNewsTV.id"><title lang="en">Kawal Pilkada</title></programme>
 <programme start="20241030093000 +0000" stop="20241030110000 +0000" channel="SindoNewsTV.id"><title lang="en">SINDO Sore</title></programme>
 <programme start="20241030110000 +0000" stop="20241030120000 +0000" channel="SindoNewsTV.id"><title lang="en">SINDO Files</title></programme>
-<programme start="20241030120000 +0000" stop="20241030140000 +0000" channel="SindoNewsTV.id"><title lang="en">Debat Pilkada Jateng</title></programme>
-<programme start="20241030140000 +0000" stop="20241030150000 +0000" channel="SindoNewsTV.id"><title lang="en">SINDO Malam</title></programme>
-<programme start="20241030150000 +0000" stop="20241030170000 +0000" channel="SindoNewsTV.id"><title lang="en">Rakyat Bersuara</title></programme>
+<programme start="20241030120000 +0000" stop="20241030133000 +0000" channel="SindoNewsTV.id"><title lang="en">SINDO Prime</title></programme>
+<programme start="20241030133000 +0000" stop="20241030153000 +0000" channel="SindoNewsTV.id"><title lang="en">Rakyat Bersuara</title></programme>
+<programme start="20241030153000 +0000" stop="20241030163000 +0000" channel="SindoNewsTV.id"><title lang="en">SINDO Malam</title></programme>
+<programme start="20241030163000 +0000" stop="20241030170000 +0000" channel="SindoNewsTV.id"><title lang="en">OMG</title></programme>
 <programme start="20241030170000 +0000" stop="20241030180000 +0000" channel="SindoNewsTV.id"><title lang="en">The Prime Show</title></programme>
 <programme start="20241030180000 +0000" stop="20241030190000 +0000" channel="SindoNewsTV.id"><title lang="en">SINDO Files</title></programme>
 <programme start="20241030190000 +0000" stop="20241030210000 +0000" channel="SindoNewsTV.id"><title lang="en">UEFA Nations: UKR Vs CZE</title></programme>
@@ -6053,28 +6054,31 @@
 <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="Sportstars.id"><title lang="en">Sportstars</title></programme>
 <programme start="20241029173000 +0000" stop="20241029180000 +0000" channel="SPOTV2.id"><title lang="en">MotoGP 2024 Spotlight</title></programme>
 <programme start="20241029180000 +0000" stop="20241029203000 +0000" channel="SPOTV2.id"><title lang="en">Supercars C&apos;ship Gold Coast</title></programme>
-<programme start="20241029203000 +0000" stop="20241029223000 +0000" channel="SPOTV2.id"><title lang="en">ISU World Figure Skating Canada</title></programme>
+<programme start="20241029203000 +0000" stop="20241029220000 +0000" channel="SPOTV2.id"><title lang="en">ISU World Figure Skating Canada</title></programme>
+<programme start="20241029220000 +0000" stop="20241029223000 +0000" channel="SPOTV2.id"><title lang="en">MotoGP 2024 Australian Recap</title></programme>
 <programme start="20241029223000 +0000" stop="20241029230000 +0000" channel="SPOTV2.id"><title lang="en">SailGP: Racing On The Edge</title></programme>
 <programme start="20241029230000 +0000" stop="20241030000800 +0000" channel="SPOTV2.id"><title lang="en">2024 Velocity Invitational HL</title></programme>
 <programme start="20241030000800 +0000" stop="20241030030000 +0000" channel="SPOTV2.id"><title lang="en">MLB: Dodgers Vs Yankees (L)</title></programme>
 <programme start="20241030030000 +0000" stop="20241030040000 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP HL</title></programme>
-<programme start="20241030040000 +0000" stop="20241030063000 +0000" channel="SPOTV2.id"><title lang="en">ISU World Figure Skating Canada</title></programme>
-<programme start="20241030063000 +0000" stop="20241030080000 +0000" channel="SPOTV2.id"><title lang="en">ISU World Figure Skating Canada</title></programme>
+<programme start="20241030040000 +0000" stop="20241030043000 +0000" channel="SPOTV2.id"><title lang="en">MotoGP 2024 Spotlight</title></programme>
+<programme start="20241030043000 +0000" stop="20241030064500 +0000" channel="SPOTV2.id"><title lang="en">ISU World Figure Skating Canada</title></programme>
+<programme start="20241030064500 +0000" stop="20241030080000 +0000" channel="SPOTV2.id"><title lang="en">ISU World Figure Skating Canada</title></programme>
 <programme start="20241030080000 +0000" stop="20241030120000 +0000" channel="SPOTV2.id"><title lang="en">WTT Champions Montpellier</title></programme>
 <programme start="20241030120000 +0000" stop="20241030143000 +0000" channel="SPOTV2.id"><title lang="en">MLB: Yankees Vs Dodgers</title></programme>
 <programme start="20241030143000 +0000" stop="20241030153000 +0000" channel="SPOTV2.id"><title lang="en">2024 WorldSBK: Spanish HL</title></programme>
-<programme start="20241030153000 +0000" stop="20241030163000 +0000" channel="SPOTV2.id"><title lang="en">PSA: US Open 2024 HL</title></programme>
+<programme start="20241030153000 +0000" stop="20241030163000 +0000" channel="SPOTV2.id"><title lang="en">PSA World Tour: US Open 2024</title></programme>
 <programme start="20241030163000 +0000" stop="20241030173000 +0000" channel="SPOTV2.id"><title lang="en">2024 Asian Tour Black Mountain</title></programme>
 <programme start="20241030173000 +0000" stop="20241030180000 +0000" channel="SPOTV2.id"><title lang="en">Hyundai Archery World Cup HL</title></programme>
-<programme start="20241030180000 +0000" stop="20241030203000 +0000" channel="SPOTV2.id"><title lang="en">Supercars C&apos;ship Gold Coast</title></programme>
-<programme start="20241030203000 +0000" stop="20241030233000 +0000" channel="SPOTV2.id"><title lang="en">WTT Champions Montpellier</title></programme>
+<programme start="20241030180000 +0000" stop="20241030202000 +0000" channel="SPOTV2.id"><title lang="en">Supercars C&apos;ship Gold Coast</title></programme>
+<programme start="20241030202000 +0000" stop="20241030233000 +0000" channel="SPOTV2.id"><title lang="en">WTT Champions Montpellier</title></programme>
 <programme start="20241030233000 +0000" stop="20241031000800 +0000" channel="SPOTV2.id"><title lang="en">Hyundai Archery World Cup HL</title></programme>
 <programme start="20241031000800 +0000" stop="20241031030000 +0000" channel="SPOTV2.id"><title lang="en">MLB: Dodgers Vs Yankees (L)</title></programme>
 <programme start="20241031030000 +0000" stop="20241031033000 +0000" channel="SPOTV2.id"><title lang="en">Rolex Swan Cup 2024</title></programme>
-<programme start="20241031033000 +0000" stop="20241031045000 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP</title></programme>
-<programme start="20241031045000 +0000" stop="20241031061000 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP</title></programme>
-<programme start="20241031061000 +0000" stop="20241031083000 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP</title></programme>
-<programme start="20241031083000 +0000" stop="20241031110000 +0000" channel="SPOTV2.id"><title lang="en">WTT Champions Montpellier</title></programme>
+<programme start="20241031033000 +0000" stop="20241031040000 +0000" channel="SPOTV2.id"><title lang="en">Hyundai Archery World Cup HL</title></programme>
+<programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP</title></programme>
+<programme start="20241031050000 +0000" stop="20241031061000 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP</title></programme>
+<programme start="20241031061000 +0000" stop="20241031084500 +0000" channel="SPOTV2.id"><title lang="en">Australian Motorcycle GP</title></programme>
+<programme start="20241031084500 +0000" stop="20241031110000 +0000" channel="SPOTV2.id"><title lang="en">WTT Champions Montpellier</title></programme>
 <programme start="20241031110000 +0000" stop="20241031113000 +0000" channel="SPOTV2.id"><title lang="en">MotoGP 2024 Thailand Recap</title></programme>
 <programme start="20241031113000 +0000" stop="20241031120000 +0000" channel="SPOTV2.id"><title lang="en">MotoGP 2024 Spotlight</title></programme>
 <programme start="20241031120000 +0000" stop="20241031143000 +0000" channel="SPOTV2.id"><title lang="en">MLB: Dodgers Vs Yankees</title></programme>
@@ -6608,78 +6612,78 @@
 <programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="tvOne.id"><title lang="en">Cover Story One</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Malam (L)</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Malam (L)</title></programme>
-<programme start="20241029170000 +0000" stop="20241029173000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241029173000 +0000" stop="20241029203000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241029203000 +0000" stop="20241029210000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241029210000 +0000" stop="20241029213000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241029213000 +0000" stop="20241029230000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241029230000 +0000" stop="20241030000000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030000000 +0000" stop="20241030010000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030010000 +0000" stop="20241030020000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030020000 +0000" stop="20241030020300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030020300 +0000" stop="20241030023000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030023000 +0000" stop="20241030030000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030030000 +0000" stop="20241030030300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030030300 +0000" stop="20241030033000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030033000 +0000" stop="20241030040000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030040000 +0000" stop="20241030040300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030040300 +0000" stop="20241030050000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030050000 +0000" stop="20241030060000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030060000 +0000" stop="20241030063000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030063000 +0000" stop="20241030070000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030070000 +0000" stop="20241030070300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030070300 +0000" stop="20241030073000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030073000 +0000" stop="20241030080000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030080000 +0000" stop="20241030080300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030080300 +0000" stop="20241030083000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030083000 +0000" stop="20241030090000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030090000 +0000" stop="20241030100000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030100000 +0000" stop="20241030103000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030103000 +0000" stop="20241030110000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030110000 +0000" stop="20241030120000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030120000 +0000" stop="20241030133000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030133000 +0000" stop="20241030140000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030140000 +0000" stop="20241030143000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030143000 +0000" stop="20241030150000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030150000 +0000" stop="20241030160000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030160000 +0000" stop="20241030163000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030163000 +0000" stop="20241030170000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030170000 +0000" stop="20241030173000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030173000 +0000" stop="20241030203000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030203000 +0000" stop="20241030210000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030210000 +0000" stop="20241030213000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030213000 +0000" stop="20241030230000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241030230000 +0000" stop="20241031000000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031000000 +0000" stop="20241031010000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031010000 +0000" stop="20241031020000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031020000 +0000" stop="20241031020300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031020300 +0000" stop="20241031023000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031023000 +0000" stop="20241031030000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031030000 +0000" stop="20241031030300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031030300 +0000" stop="20241031033000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031033000 +0000" stop="20241031040000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031040000 +0000" stop="20241031040300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031040300 +0000" stop="20241031050000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031060000 +0000" stop="20241031063000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031063000 +0000" stop="20241031070000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031070000 +0000" stop="20241031070300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031070300 +0000" stop="20241031073000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031073000 +0000" stop="20241031080000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031080000 +0000" stop="20241031080300 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031080300 +0000" stop="20241031083000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031083000 +0000" stop="20241031090000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031100000 +0000" stop="20241031103000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031103000 +0000" stop="20241031110000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031140000 +0000" stop="20241031143000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
-<programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="TVRINasional.id"><title lang="en">TVRI</title></programme>
+<programme start="20241029170000 +0000" stop="20241029173000 +0000" channel="TVRINasional.id"><title lang="en">Monitor Olahraga (L)</title></programme>
+<programme start="20241029173000 +0000" stop="20241029203000 +0000" channel="TVRINasional.id"><title lang="en">Antar Gelanggang</title></programme>
+<programme start="20241029203000 +0000" stop="20241029210000 +0000" channel="TVRINasional.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20241029210000 +0000" stop="20241029213000 +0000" channel="TVRINasional.id"><title lang="en">Jejak Islam</title></programme>
+<programme start="20241029213000 +0000" stop="20241029230000 +0000" channel="TVRINasional.id"><title lang="en">Serambi Islami</title></programme>
+<programme start="20241029230000 +0000" stop="20241030000000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Pagi (L)</title></programme>
+<programme start="20241030000000 +0000" stop="20241030010000 +0000" channel="TVRINasional.id"><title lang="en">Jendela Negeri (L)</title></programme>
+<programme start="20241030010000 +0000" stop="20241030020000 +0000" channel="TVRINasional.id"><title lang="en">Bersama Perempuan</title></programme>
+<programme start="20241030020000 +0000" stop="20241030020300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241030020300 +0000" stop="20241030023000 +0000" channel="TVRINasional.id"><title lang="en">Mari Menggambar</title></programme>
+<programme start="20241030023000 +0000" stop="20241030030000 +0000" channel="TVRINasional.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20241030030000 +0000" stop="20241030030300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241030030300 +0000" stop="20241030033000 +0000" channel="TVRINasional.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20241030033000 +0000" stop="20241030040000 +0000" channel="TVRINasional.id"><title lang="en">Dapur Devina</title></programme>
+<programme start="20241030040000 +0000" stop="20241030040300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241030040300 +0000" stop="20241030050000 +0000" channel="TVRINasional.id"><title lang="en">Seblak Show</title></programme>
+<programme start="20241030050000 +0000" stop="20241030060000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Siang (L)</title></programme>
+<programme start="20241030060000 +0000" stop="20241030063000 +0000" channel="TVRINasional.id"><title lang="en">Indonesia Bergerak</title></programme>
+<programme start="20241030063000 +0000" stop="20241030070000 +0000" channel="TVRINasional.id"><title lang="en">Inspirasi Tani</title></programme>
+<programme start="20241030070000 +0000" stop="20241030070300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241030070300 +0000" stop="20241030073000 +0000" channel="TVRINasional.id"><title lang="en">Pesona Indonesia</title></programme>
+<programme start="20241030073000 +0000" stop="20241030080000 +0000" channel="TVRINasional.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20241030080000 +0000" stop="20241030080300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241030080300 +0000" stop="20241030083000 +0000" channel="TVRINasional.id"><title lang="en">Mimbar Agama Hindu</title></programme>
+<programme start="20241030083000 +0000" stop="20241030090000 +0000" channel="TVRINasional.id"><title lang="en">Jelajah Negeri</title></programme>
+<programme start="20241030090000 +0000" stop="20241030100000 +0000" channel="TVRINasional.id"><title lang="en">Urban Street</title></programme>
+<programme start="20241030100000 +0000" stop="20241030103000 +0000" channel="TVRINasional.id"><title lang="en">Pilihan Rakyat (L)</title></programme>
+<programme start="20241030103000 +0000" stop="20241030110000 +0000" channel="TVRINasional.id"><title lang="en">Sketsa Pilkada (L)</title></programme>
+<programme start="20241030110000 +0000" stop="20241030120000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Petang (L)</title></programme>
+<programme start="20241030120000 +0000" stop="20241030133000 +0000" channel="TVRINasional.id"><title lang="en">Fokus Terkini (L)</title></programme>
+<programme start="20241030133000 +0000" stop="20241030140000 +0000" channel="TVRINasional.id"><title lang="en">Bangga Buatan Indonesia</title></programme>
+<programme start="20241030140000 +0000" stop="20241030143000 +0000" channel="TVRINasional.id"><title lang="en">Dunia Dalam Berita (L)</title></programme>
+<programme start="20241030143000 +0000" stop="20241030150000 +0000" channel="TVRINasional.id"><title lang="en">News Watch</title></programme>
+<programme start="20241030150000 +0000" stop="20241030160000 +0000" channel="TVRINasional.id"><title lang="en">Keroncong Lestari</title></programme>
+<programme start="20241030160000 +0000" stop="20241030163000 +0000" channel="TVRINasional.id"><title lang="en">Flashback</title></programme>
+<programme start="20241030163000 +0000" stop="20241030170000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Malam (L)</title></programme>
+<programme start="20241030170000 +0000" stop="20241030173000 +0000" channel="TVRINasional.id"><title lang="en">Monitor Olahraga (L)</title></programme>
+<programme start="20241030173000 +0000" stop="20241030203000 +0000" channel="TVRINasional.id"><title lang="en">Antar Gelanggang</title></programme>
+<programme start="20241030203000 +0000" stop="20241030210000 +0000" channel="TVRINasional.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20241030210000 +0000" stop="20241030213000 +0000" channel="TVRINasional.id"><title lang="en">Jejak Islam</title></programme>
+<programme start="20241030213000 +0000" stop="20241030230000 +0000" channel="TVRINasional.id"><title lang="en">Serambi Islami</title></programme>
+<programme start="20241030230000 +0000" stop="20241031000000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Pagi (L)</title></programme>
+<programme start="20241031000000 +0000" stop="20241031010000 +0000" channel="TVRINasional.id"><title lang="en">Jendela Negeri (L)</title></programme>
+<programme start="20241031010000 +0000" stop="20241031020000 +0000" channel="TVRINasional.id"><title lang="en">Bersama Perempuan</title></programme>
+<programme start="20241031020000 +0000" stop="20241031020300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241031020300 +0000" stop="20241031023000 +0000" channel="TVRINasional.id"><title lang="en">Mari Menggambar</title></programme>
+<programme start="20241031023000 +0000" stop="20241031030000 +0000" channel="TVRINasional.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20241031030000 +0000" stop="20241031030300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241031030300 +0000" stop="20241031033000 +0000" channel="TVRINasional.id"><title lang="en">Halo Dokter</title></programme>
+<programme start="20241031033000 +0000" stop="20241031040000 +0000" channel="TVRINasional.id"><title lang="en">Dapur Devina</title></programme>
+<programme start="20241031040000 +0000" stop="20241031040300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241031040300 +0000" stop="20241031050000 +0000" channel="TVRINasional.id"><title lang="en">Seblak Show</title></programme>
+<programme start="20241031050000 +0000" stop="20241031060000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Siang (L)</title></programme>
+<programme start="20241031060000 +0000" stop="20241031063000 +0000" channel="TVRINasional.id"><title lang="en">Oase Indonesia</title></programme>
+<programme start="20241031063000 +0000" stop="20241031070000 +0000" channel="TVRINasional.id"><title lang="en">Ayo Bertani</title></programme>
+<programme start="20241031070000 +0000" stop="20241031070300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241031070300 +0000" stop="20241031073000 +0000" channel="TVRINasional.id"><title lang="en">Pesona Indonesia</title></programme>
+<programme start="20241031073000 +0000" stop="20241031080000 +0000" channel="TVRINasional.id"><title lang="en">Inspirasi Indonesia</title></programme>
+<programme start="20241031080000 +0000" stop="20241031080300 +0000" channel="TVRINasional.id"><title lang="en">Info Terkini (L)</title></programme>
+<programme start="20241031080300 +0000" stop="20241031083000 +0000" channel="TVRINasional.id"><title lang="en">Mimbar Agama Budha</title></programme>
+<programme start="20241031083000 +0000" stop="20241031090000 +0000" channel="TVRINasional.id"><title lang="en">Jelajah Negeri</title></programme>
+<programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="TVRINasional.id"><title lang="en">Pengen Beken</title></programme>
+<programme start="20241031100000 +0000" stop="20241031103000 +0000" channel="TVRINasional.id"><title lang="en">Pilihan Rakyat (L)</title></programme>
+<programme start="20241031103000 +0000" stop="20241031110000 +0000" channel="TVRINasional.id"><title lang="en">Sketsa Pilkada (L)</title></programme>
+<programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Petang (L)</title></programme>
+<programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="TVRINasional.id"><title lang="en">Indonesia Bicara (L)</title></programme>
+<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="TVRINasional.id"><title lang="en">Bunga Khatulistiwa</title></programme>
+<programme start="20241031140000 +0000" stop="20241031143000 +0000" channel="TVRINasional.id"><title lang="en">Dunia Dalam Berita (L)</title></programme>
+<programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="TVRINasional.id"><title lang="en">News Watch</title></programme>
+<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="TVRINasional.id"><title lang="en">Irama Gambus</title></programme>
+<programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="TVRINasional.id"><title lang="en">Flashback</title></programme>
+<programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="TVRINasional.id"><title lang="en">Klik Indonesia Malam (L)</title></programme>
 <programme start="20241029173000 +0000" stop="20241029183000 +0000" channel="VisionPrime.id"><title lang="en">Makin Deg Deg-an</title></programme>
 <programme start="20241029183000 +0000" stop="20241029193000 +0000" channel="VisionPrime.id"><title lang="en">Cinta Yasmin</title></programme>
 <programme start="20241029193000 +0000" stop="20241029203000 +0000" channel="VisionPrime.id"><title lang="en">Cinta Berakhir Bahagia</title></programme>
@@ -6695,7 +6699,8 @@
 <programme start="20241030040000 +0000" stop="20241030050000 +0000" channel="VisionPrime.id"><title lang="en">Cinta Berakhir Bahagia</title></programme>
 <programme start="20241030050000 +0000" stop="20241030053000 +0000" channel="VisionPrime.id"><title lang="en">New Top Files</title></programme>
 <programme start="20241030053000 +0000" stop="20241030063000 +0000" channel="VisionPrime.id"><title lang="en">IPA &amp; IPS</title></programme>
-<programme start="20241030063000 +0000" stop="20241030083000 +0000" channel="VisionPrime.id"><title lang="en">Tepatilah Janji</title></programme>
+<programme start="20241030063000 +0000" stop="20241030073000 +0000" channel="VisionPrime.id"><title lang="en">Baper</title></programme>
+<programme start="20241030073000 +0000" stop="20241030083000 +0000" channel="VisionPrime.id"><title lang="en">Ragam Cerita</title></programme>
 <programme start="20241030083000 +0000" stop="20241030093000 +0000" channel="VisionPrime.id"><title lang="en">Makin Deg Deg-an</title></programme>
 <programme start="20241030093000 +0000" stop="20241030100000 +0000" channel="VisionPrime.id"><title lang="en">Instamania</title></programme>
 <programme start="20241030100000 +0000" stop="20241030120000 +0000" channel="VisionPrime.id"><title lang="en">Cinta Berakhir Bahagia</title></programme>
@@ -6730,7 +6735,7 @@
 <programme start="20241031140000 +0000" stop="20241031143000 +0000" channel="VisionPrime.id"><title lang="en">Piknik Pesona: Gedang Renteng</title></programme>
 <programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="VisionPrime.id"><title lang="en">Piknik Pesona: (S)Aya</title></programme>
 <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="VisionPrime.id"><title lang="en">Terbelenggu Rindu</title></programme>
-<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="VisionPrime.id"><title lang="en">Gober</title></programme>
+<programme start="20241031160000 +0000" stop="20241031173000 +0000" channel="VisionPrime.id"><title lang="en">Gober</title></programme>
 <programme start="20241029175000 +0000" stop="20241029194500 +0000" channel="XingKongChina.cn"><title lang="en">Xing kong TV</title></programme>
 <programme start="20241029194500 +0000" stop="20241029212500 +0000" channel="XingKongChina.cn"><title lang="en">Xing kong TV</title></programme>
 <programme start="20241029212500 +0000" stop="20241029230000 +0000" channel="XingKongChina.cn"><title lang="en">Xing kong TV</title></programme>
