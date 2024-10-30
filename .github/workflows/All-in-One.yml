@@ -5,6 +5,10 @@ on:
     - cron: "* */3 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
+concurrency:
+  group: AIO
+  cancel-in-progress: true
+
 jobs:
   update-player-ee-co-uk:
     runs-on: ubuntu-latest
