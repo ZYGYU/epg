@@ -25,7 +25,7 @@ jobs:
       - name: Generate EPG Output for mncvision.id
         run: |
           cd epg
-          npm run grab -- --site=mncvision.id --lang=id
+          npm run grab -- --site=mncvision.id --lang=id --maxConnections=10 --days=3
           mv guide.xml ../channel/mncvision.id.xml
 
       - name: Commit and Push EPG Output to Your Repository
