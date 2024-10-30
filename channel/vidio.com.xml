@@ -2022,17 +2022,17 @@
 <programme start="20241030110000 +0000" stop="20241030130000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20241030130000 +0000" stop="20241030153000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : The Foreigner</title></programme>
 <programme start="20241030153000 +0000" stop="20241030173000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia: The Shaolin 2</title></programme>
-<programme start="20241030173000 +0000" stop="20241030190000 +0000" channel="Indosiar.id"><title lang="id">Pendekar Rase Terbang</title></programme>
-<programme start="20241030190000 +0000" stop="20241030213000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title></programme>
+<programme start="20241030173000 +0000" stop="20241030190000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : The Bodyguard From Beijing</title></programme>
+<programme start="20241030190000 +0000" stop="20241030213000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : My Hero</title></programme>
 <programme start="20241030213000 +0000" stop="20241030230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
 <programme start="20241030230000 +0000" stop="20241031010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
 <programme start="20241031010000 +0000" stop="20241031030000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi</title></programme>
 <programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="Indosiar.id"><title lang="id">Hot Kiss</title></programme>
 <programme start="20241031040000 +0000" stop="20241031043000 +0000" channel="Indosiar.id"><title lang="id">Patroli Siang</title></programme>
 <programme start="20241031043000 +0000" stop="20241031050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
-<programme start="20241031050000 +0000" stop="20241031070000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang</title></programme>
-<programme start="20241031070000 +0000" stop="20241031090000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata</title></programme>
-<programme start="20241031090000 +0000" stop="20241031110000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata</title></programme>
+<programme start="20241031050000 +0000" stop="20241031070000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang : Petaka Di Balik Dusta yang Mewarnai Pernikahanku</title></programme>
+<programme start="20241031070000 +0000" stop="20241031090000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial : Obsesi Wanita yang Gemar Mempermainkan Dosa</title></programme>
+<programme start="20241031090000 +0000" stop="20241031110000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Sore Spesial : Obsesi Wanita yang Gemar Mempermainkan Dosa</title></programme>
 <programme start="20241031110000 +0000" stop="20241031130000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 New Season</title></programme>
 <programme start="20241031130000 +0000" stop="20241031153000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Line Walker 2 Invisible Spy</title></programme>
 <programme start="20241031153000 +0000" stop="20241031173000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia: The Shaolin 2</title></programme>
@@ -3044,11 +3044,15 @@
 <programme start="20241030143000 +0000" stop="20241030153000 +0000" channel="SPOTV2.id"><title lang="id">2024 WorldSBK Round 12 Prometeon Spanish Round</title></programme>
 <programme start="20241030153000 +0000" stop="20241030163000 +0000" channel="SPOTV2.id"><title lang="id">PSA World Tour 2024/25: US Open 2024</title></programme>
 <programme start="20241030163000 +0000" stop="20241030173000 +0000" channel="SPOTV2.id"><title lang="id">2024 Asian Tour Black Mountain Championship</title></programme>
-<programme start="20241030180000 +0000" stop="20241031020000 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
-<programme start="20241031020000 +0000" stop="20241031060000 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
-<programme start="20241031060000 +0000" stop="20241031100000 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
-<programme start="20241031100000 +0000" stop="20241031140000 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
-<programme start="20241031140000 +0000" stop="20241031180000 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
+<programme start="20241030173000 +0000" stop="20241030180000 +0000" channel="SPOTV2.id"><title lang="id">Archery World Cup Final Tlaxcala, Compound Women Elite : Archery</title></programme>
+<programme start="20241030180000 +0000" stop="20241031000800 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
+<programme start="20241031000800 +0000" stop="20241031030000 +0000" channel="SPOTV2.id"><title lang="id">World Series - Game 5: Los Angeles Dodgers vs New York Yankees - MLB</title></programme>
+<programme start="20241031030000 +0000" stop="20241031060000 +0000" channel="SPOTV2.id"><title lang="id">Sign Off</title></programme>
+<programme start="20241031061000 +0000" stop="20241031084500 +0000" channel="SPOTV2.id"><title lang="id">Grand Prix of Qatar : MotoGP Racing</title></programme>
+<programme start="20241031084500 +0000" stop="20241031110000 +0000" channel="SPOTV2.id"><title lang="id">WTT Champions Montpellier: Finals : Table Tennis</title></programme>
+<programme start="20241031113000 +0000" stop="20241031120000 +0000" channel="SPOTV2.id"><title lang="id">Takaaki Nakagami : MotoGP Spotlight</title></programme>
+<programme start="20241031120000 +0000" stop="20241031143000 +0000" channel="SPOTV2.id"><title lang="id">Takaaki Nakagami : MotoGP Spotlight</title></programme>
+<programme start="20241031153000 +0000" stop="20241031174500 +0000" channel="SPOTV2.id"><title lang="id">2024 S-Oil Seven GTOUR Mixed Cup Stage1, FR : Golf</title></programme>
 <programme start="20241029170000 +0000" stop="20241029180000 +0000" channel="SPOTV.id"><title lang="id">Highlights: Grand Prix of Thailand : MotoGP</title></programme>
 <programme start="20241029180000 +0000" stop="20241029191500 +0000" channel="SPOTV.id"><title lang="id">Zhuzhou, China: Qualifying : FIA TCR World Tour</title></programme>
 <programme start="20241029191500 +0000" stop="20241029203000 +0000" channel="SPOTV.id"><title lang="id">Zhuzhou, China: Race 1 : FIA TCR World Tour</title></programme>
