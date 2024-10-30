@@ -899,8 +899,8 @@
 <programme start="20241029223000 +0000" stop="20241029230000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241029230000 +0000" stop="20241029233000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
 <programme start="20241029233000 +0000" stop="20241030020000 +0000" channel="ChampionsTV3.id"><title lang="id">Dallas Mavericks vs Minnesota Timberwolves - NBA</title></programme>
-<programme start="20241030020000 +0000" stop="20241030043000 +0000" channel="ChampionsTV3.id"><title lang="id">New Orleans Pelicans vs Golden State Warriors - NBA</title></programme>
-<programme start="20241030043000 +0000" stop="20241030073000 +0000" channel="ChampionsTV3.id"><title lang="id">Indiana Pacers at New York Knicks : NBA Basketball</title></programme>
+<programme start="20241030020000 +0000" stop="20241030050000 +0000" channel="ChampionsTV3.id"><title lang="id">New Orleans Pelicans vs Golden State Warriors - NBA</title></programme>
+<programme start="20241030050000 +0000" stop="20241030073000 +0000" channel="ChampionsTV3.id"><title lang="id">Indiana Pacers at New York Knicks : NBA Basketball</title></programme>
 <programme start="20241030073000 +0000" stop="20241030103000 +0000" channel="ChampionsTV3.id"><title lang="id">Phoenix Suns at Los Angeles Lakers : NBA Basketball</title></programme>
 <programme start="20241030103000 +0000" stop="20241030110000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241030110000 +0000" stop="20241030113000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
@@ -2486,27 +2486,27 @@
 <programme start="20241030150000 +0000" stop="20241030160000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
 <programme start="20241030160000 +0000" stop="20241030170000 +0000" channel="NET.id"><title lang="id">KEAJAIBAN DUNIA</title></programme>
 <programme start="20241030170000 +0000" stop="20241030180000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
-<programme start="20241030180000 +0000" stop="20241030190000 +0000" channel="NET.id"><title lang="id">One Championship Warrior</title></programme>
-<programme start="20241030190000 +0000" stop="20241030200000 +0000" channel="NET.id"><title lang="id">Jurnal Dunia Islam</title></programme>
-<programme start="20241030200000 +0000" stop="20241030210000 +0000" channel="NET.id"><title lang="id">Alkisah</title></programme>
-<programme start="20241030210000 +0000" stop="20241030220000 +0000" channel="NET.id"><title lang="id">86</title></programme>
-<programme start="20241030220000 +0000" stop="20241030230000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
-<programme start="20241030230000 +0000" stop="20241031000000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
-<programme start="20241031000000 +0000" stop="20241031013000 +0000" channel="NET.id"><title lang="id">Inilah Kisahnya</title></programme>
-<programme start="20241031013000 +0000" stop="20241031030000 +0000" channel="NET.id"><title lang="id">Berani Jadi Koki</title></programme>
-<programme start="20241031030000 +0000" stop="20241031043000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
-<programme start="20241031043000 +0000" stop="20241031053000 +0000" channel="NET.id"><title lang="id">THE PENTHOUSE 3</title></programme>
-<programme start="20241031053000 +0000" stop="20241031053100 +0000" channel="NET.id"><title lang="id">Net Asia: Prime Minister and I</title></programme>
-<programme start="20241031053100 +0000" stop="20241031063000 +0000" channel="NET.id"><title lang="id">Toktok Net</title></programme>
-<programme start="20241031063000 +0000" stop="20241031073000 +0000" channel="NET.id"><title lang="id">Kuliner Viral</title></programme>
-<programme start="20241031073000 +0000" stop="20241031093000 +0000" channel="NET.id"><title lang="id">Makandunia</title></programme>
-<programme start="20241031093000 +0000" stop="20241031113000 +0000" channel="NET.id"><title lang="id">Detective Conan</title></programme>
-<programme start="20241031113000 +0000" stop="20241031113100 +0000" channel="NET.id"><title lang="id">Shinbi&apos;s House</title></programme>
-<programme start="20241031113100 +0000" stop="20241031130000 +0000" channel="NET.id"><title lang="id">Toktok Net</title></programme>
-<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
-<programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="NET.id"><title lang="id">Aadd (Ada Apa Dengan Dunia)</title></programme>
-<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="NET.id"><title lang="id">Main Hakim Sendiri</title></programme>
-<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
+<programme start="20241030180000 +0000" stop="20241030190000 +0000" channel="NET.id"><title lang="id">JURNAL UFC</title></programme>
+<programme start="20241030190000 +0000" stop="20241030200000 +0000" channel="NET.id"><title lang="id">ALKISAH</title></programme>
+<programme start="20241030200000 +0000" stop="20241030210000 +0000" channel="NET.id"><title lang="id">86</title></programme>
+<programme start="20241030210000 +0000" stop="20241030220000 +0000" channel="NET.id"><title lang="id">DI BALIK MITOS</title></programme>
+<programme start="20241030220000 +0000" stop="20241030230000 +0000" channel="NET.id"><title lang="id">TOP SPOT</title></programme>
+<programme start="20241030230000 +0000" stop="20241031000000 +0000" channel="NET.id"><title lang="id">INILAH KISAHNYA</title></programme>
+<programme start="20241031000000 +0000" stop="20241031013000 +0000" channel="NET.id"><title lang="id">BERANI JADI KOKI</title></programme>
+<programme start="20241031013000 +0000" stop="20241031030000 +0000" channel="NET.id"><title lang="id">MAKAN ENAK</title></programme>
+<programme start="20241031030000 +0000" stop="20241031043000 +0000" channel="NET.id"><title lang="id">NET. DRAKOR SARANGHAE: THE PENTHOUSE 3</title></programme>
+<programme start="20241031043000 +0000" stop="20241031053000 +0000" channel="NET.id"><title lang="id">NET ASIA: PRIME MINISTER AND I</title></programme>
+<programme start="20241031053000 +0000" stop="20241031053100 +0000" channel="NET.id"><title lang="id">TOK TOK NET</title></programme>
+<programme start="20241031053100 +0000" stop="20241031063000 +0000" channel="NET.id"><title lang="id">KULINER VIRAL</title></programme>
+<programme start="20241031063000 +0000" stop="20241031073000 +0000" channel="NET.id"><title lang="id">MAKANDUNIA</title></programme>
+<programme start="20241031073000 +0000" stop="20241031093000 +0000" channel="NET.id"><title lang="id">NET MANIA : DETECTIVE CONAN</title></programme>
+<programme start="20241031093000 +0000" stop="20241031113000 +0000" channel="NET.id"><title lang="id">NET MOVIE : SHINBI&apos;S HOUSE</title></programme>
+<programme start="20241031113000 +0000" stop="20241031113100 +0000" channel="NET.id"><title lang="id">TOK TOK NET</title></programme>
+<programme start="20241031113100 +0000" stop="20241031130000 +0000" channel="NET.id"><title lang="id">TOP SPOT</title></programme>
+<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="NET.id"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
+<programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="NET.id"><title lang="id">MAIN HAKIM SENDIRI</title></programme>
+<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="NET.id"><title lang="id">JATANRAS</title></programme>
+<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="NET.id"><title lang="id">KEAJAIBAN DUNIA</title></programme>
 <programme start="20241029170000 +0000" stop="20241029171500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241029171500 +0000" stop="20241029173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline in Depth</title></programme>
 <programme start="20241029173000 +0000" stop="20241029180000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Authentic Japanese Cooking; Shio Sukiyaki With Mushrooms : Dining with the Chef</title></programme>
@@ -2753,8 +2753,7 @@
 <programme start="20241030203000 +0000" stop="20241030210000 +0000" channel="RajawaliTV.id"><title lang="id">Buka Mata Buka Hati</title></programme>
 <programme start="20241030210000 +0000" stop="20241030213000 +0000" channel="RajawaliTV.id"><title lang="id">Kumprank</title></programme>
 <programme start="20241030213000 +0000" stop="20241030220000 +0000" channel="RajawaliTV.id"><title lang="id">Mina Mila</title></programme>
-<programme start="20241030220000 +0000" stop="20241030223000 +0000" channel="RajawaliTV.id"><title lang="id">Ibra Berkisah</title></programme>
-<programme start="20241030223000 +0000" stop="20241030230000 +0000" channel="RajawaliTV.id"><title lang="id">Lensa Indonesia Pagi</title></programme>
+<programme start="20241030220000 +0000" stop="20241030230000 +0000" channel="RajawaliTV.id"><title lang="id">Ibra Berkisah</title></programme>
 <programme start="20241030230000 +0000" stop="20241030233000 +0000" channel="RajawaliTV.id"><title lang="id">Riko The Series</title></programme>
 <programme start="20241030233000 +0000" stop="20241031003000 +0000" channel="RajawaliTV.id"><title lang="id">Smurfs</title></programme>
 <programme start="20241031003000 +0000" stop="20241031013000 +0000" channel="RajawaliTV.id"><title lang="id">Si Aa</title></programme>
@@ -2774,7 +2773,7 @@
 <programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="RajawaliTV.id"><title lang="id">Kumprank</title></programme>
 <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="RajawaliTV.id"><title lang="id">Takdir Cinta Kera Sakti</title></programme>
 <programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="RajawaliTV.id"><title lang="id">Catatan Seputar Investigasi</title></programme>
-<programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="RajawaliTV.id"><title lang="id">Jagoan Silat</title></programme>
+<programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="RajawaliTV.id"><title lang="id">LENSA INDONESIA MALAM</title></programme>
 <programme start="20241029173000 +0000" stop="20241029183000 +0000" channel="Reformed21.id"><title lang="id">Rev. Michael Densmoor : English Sermon</title></programme>
 <programme start="20241029183000 +0000" stop="20241029190000 +0000" channel="Reformed21.id"><title lang="id">In Conversation With Dr. Karla Apperloo-Boersma</title></programme>
 <programme start="20241029190000 +0000" stop="20241029203000 +0000" channel="Reformed21.id"><title lang="id">(Pdt. Ivan Kristiono) : Khotbah</title></programme>
