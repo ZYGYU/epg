@@ -3603,9 +3603,9 @@
 <programme start="20241030073000 +0000" stop="20241030084500 +0000" channel="iNews.id"><title lang="en">iSeleb (L)</title></programme>
 <programme start="20241030084500 +0000" stop="20241030100000 +0000" channel="iNews.id"><title lang="en">Realita (L)</title></programme>
 <programme start="20241030100000 +0000" stop="20241030130000 +0000" channel="iNews.id"><title lang="en">Debat Cagub Papua Barat Daya (L)</title></programme>
-<programme start="20241030130000 +0000" stop="20241030140000 +0000" channel="iNews.id"><title lang="en">The Prime Show</title></programme>
+<programme start="20241030130000 +0000" stop="20241030140000 +0000" channel="iNews.id"><title lang="en">iNews Prime (L)</title></programme>
 <programme start="20241030140000 +0000" stop="20241030160000 +0000" channel="iNews.id"><title lang="en">Debat Walikota Bandung (L)</title></programme>
-<programme start="20241030160000 +0000" stop="20241030174500 +0000" channel="iNews.id"><title lang="en">AFC U17 2025 Qual.: IDN Vs NMI</title></programme>
+<programme start="20241030160000 +0000" stop="20241030174500 +0000" channel="iNews.id"><title lang="en">AFC U17 2025 Qual.: NMI Vs IDN</title></programme>
 <programme start="20241030174500 +0000" stop="20241030183000 +0000" channel="iNews.id"><title lang="en">Realita</title></programme>
 <programme start="20241030183000 +0000" stop="20241030191500 +0000" channel="iNews.id"><title lang="en">Special Report</title></programme>
 <programme start="20241030191500 +0000" stop="20241030201500 +0000" channel="iNews.id"><title lang="en">iNews Sore</title></programme>
@@ -3624,11 +3624,10 @@
 <programme start="20241031073000 +0000" stop="20241031084500 +0000" channel="iNews.id"><title lang="en">iSeleb (L)</title></programme>
 <programme start="20241031084500 +0000" stop="20241031100000 +0000" channel="iNews.id"><title lang="en">Realita (L)</title></programme>
 <programme start="20241031100000 +0000" stop="20241031120000 +0000" channel="iNews.id"><title lang="en">iNews Sore (L)</title></programme>
-<programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="iNews.id"><title lang="en">iNews Room (L)</title></programme>
-<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="iNews.id"><title lang="en">Interupsi (L)</title></programme>
-<programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="iNews.id"><title lang="en">iNews Prime (L)</title></programme>
-<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="iNews.id"><title lang="en">iNews Malam (L)</title></programme>
-<programme start="20241031160000 +0000" stop="20241031174500 +0000" channel="iNews.id"><title lang="en">AFC U17 2025 Qual.: AUS Vs IDN</title></programme>
+<programme start="20241031120000 +0000" stop="20241031143000 +0000" channel="iNews.id"><title lang="en">Debat Kabupaten Bombana (L)</title></programme>
+<programme start="20241031143000 +0000" stop="20241031151500 +0000" channel="iNews.id"><title lang="en">iNews Prime (L)</title></programme>
+<programme start="20241031151500 +0000" stop="20241031160000 +0000" channel="iNews.id"><title lang="en">iNews Malam (L)</title></programme>
+<programme start="20241031160000 +0000" stop="20241031174500 +0000" channel="iNews.id"><title lang="en">SEA Games 2023: IDN Vs PHI</title></programme>
 <programme start="20241031164500 +0000" stop="20241031172700 +0000" channel="iNews.id"><title lang="en">Realita</title></programme>
 <programme start="20241031165000 +0000" stop="20241031183000 +0000" channel="iNews.id"><title lang="en">AFC U17 2025 Qual.: AUS Vs IDN</title></programme>
 <programme start="20241029230000 +0000" stop="20241030000000 +0000" channel="JakTV.id"><title lang="en">Berdoa Yuk</title></programme>
@@ -6104,7 +6103,8 @@
 <programme start="20241030153000 +0000" stop="20241030180000 +0000" channel="SPOTV.id"><title lang="en">2024 Ultimate Pool Pairs Cup</title></programme>
 <programme start="20241030180000 +0000" stop="20241030190000 +0000" channel="SPOTV.id"><title lang="en">MotoGP eSports C&apos;ship 2024</title></programme>
 <programme start="20241030190000 +0000" stop="20241031000000 +0000" channel="SPOTV.id"><title lang="en">HSBC BWF Denmark Open 2024</title></programme>
-<programme start="20241031000000 +0000" stop="20241031045000 +0000" channel="SPOTV.id"><title lang="en">HSBC BWF Denmark Open 2024</title></programme>
+<programme start="20241031000000 +0000" stop="20241031042000 +0000" channel="SPOTV.id"><title lang="en">HSBC BWF Denmark Open 2024</title></programme>
+<programme start="20241031042000 +0000" stop="20241031045000 +0000" channel="SPOTV.id"><title lang="en">FIA Pure Motorsport 2024, Ep 10</title></programme>
 <programme start="20241031045000 +0000" stop="20241031075000 +0000" channel="SPOTV.id"><title lang="en">BDMNTN-XL 2024 (L)</title></programme>
 <programme start="20241031075000 +0000" stop="20241031100000 +0000" channel="SPOTV.id"><title lang="en">BDMNTN-XL 2024 (L)</title></programme>
 <programme start="20241031100000 +0000" stop="20241031105000 +0000" channel="SPOTV.id"><title lang="en">FIA Pure Motorsport 2024, Ep 11</title></programme>
