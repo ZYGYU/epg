@@ -214,7 +214,7 @@
 <programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Inside Story</title></programme>
 <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NewsHour</title></programme>
 <programme start="20241031190000 +0000" stop="20241031193000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
-<programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream</title></programme>
+<programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream: All Eyes On America</title></programme>
 <programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Inside Story</title></programme>
 <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NewsHour</title></programme>
@@ -230,7 +230,7 @@
 <programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Fault Lines: Muscle Inc.</title></programme>
 <programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
-<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream</title></programme>
+<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream: All Eyes On America</title></programme>
 <programme start="20241101050000 +0000" stop="20241101053000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Inside Story</title></programme>
 <programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
@@ -247,7 +247,7 @@
 <programme start="20241101123000 +0000" stop="20241101130000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Stateless In Syria: No Torture</title></programme>
 <programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NewsHour</title></programme>
 <programme start="20241101140000 +0000" stop="20241101143000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
-<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream</title></programme>
+<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">The Stream: All Eyes On America</title></programme>
 <programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">NewsHour</title></programme>
 <programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">News (L)</title></programme>
 <programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="AlJazeeraEnglish.qa"><title lang="en">Echoes Of A Lost Gaza</title></programme>
@@ -3042,124 +3042,244 @@
 <programme start="20241031164500 +0000" stop="20241031165100 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
 <programme start="20241031165100 +0000" stop="20241031170000 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
 <programme start="20241031170000 +0000" stop="20241031171000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031170000 +0000" stop="20241031171000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031171000 +0000" stop="20241031175300 +0000" channel="France24English.fr"><title lang="en">The Debate (L)</title></programme>
 <programme start="20241031171000 +0000" stop="20241031175300 +0000" channel="France24English.fr"><title lang="en">The Debate (L)</title></programme>
 <programme start="20241031175300 +0000" stop="20241031180000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241031175300 +0000" stop="20241031180000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241031180000 +0000" stop="20241031181500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031180000 +0000" stop="20241031181500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031181500 +0000" stop="20241031182100 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
+<programme start="20241031181500 +0000" stop="20241031182100 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
+<programme start="20241031182100 +0000" stop="20241031183000 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
 <programme start="20241031182100 +0000" stop="20241031183000 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
 <programme start="20241031183000 +0000" stop="20241031184500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031183000 +0000" stop="20241031184500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031184500 +0000" stop="20241031185100 +0000" channel="France24English.fr"><title lang="en">Truth Or Fake (L)</title></programme>
 <programme start="20241031184500 +0000" stop="20241031185100 +0000" channel="France24English.fr"><title lang="en">Truth Or Fake (L)</title></programme>
 <programme start="20241031185100 +0000" stop="20241031190000 +0000" channel="France24English.fr"><title lang="en">Focus (L)</title></programme>
+<programme start="20241031185100 +0000" stop="20241031190000 +0000" channel="France24English.fr"><title lang="en">Focus (L)</title></programme>
+<programme start="20241031190000 +0000" stop="20241031192000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031190000 +0000" stop="20241031192000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031192000 +0000" stop="20241031193000 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
+<programme start="20241031192000 +0000" stop="20241031193000 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
+<programme start="20241031193000 +0000" stop="20241031194000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031193000 +0000" stop="20241031194000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031194000 +0000" stop="20241031200000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20241031194000 +0000" stop="20241031200000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20241031200000 +0000" stop="20241031201500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031200000 +0000" stop="20241031201500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031201500 +0000" stop="20241031202100 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
+<programme start="20241031201500 +0000" stop="20241031202100 +0000" channel="France24English.fr"><title lang="en">Business (L)</title></programme>
+<programme start="20241031202100 +0000" stop="20241031203000 +0000" channel="France24English.fr"><title lang="en">Truth Or Fake (L)</title></programme>
 <programme start="20241031202100 +0000" stop="20241031203000 +0000" channel="France24English.fr"><title lang="en">Truth Or Fake (L)</title></programme>
 <programme start="20241031203000 +0000" stop="20241031203200 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031203000 +0000" stop="20241031203200 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031203200 +0000" stop="20241031204400 +0000" channel="France24English.fr"><title lang="en">A Propos (L)</title></programme>
 <programme start="20241031203200 +0000" stop="20241031204400 +0000" channel="France24English.fr"><title lang="en">A Propos (L)</title></programme>
 <programme start="20241031204400 +0000" stop="20241031210000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20241031204400 +0000" stop="20241031210000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa (L)</title></programme>
+<programme start="20241031210000 +0000" stop="20241031211500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031210000 +0000" stop="20241031211500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031211500 +0000" stop="20241031213000 +0000" channel="France24English.fr"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20241031211500 +0000" stop="20241031213000 +0000" channel="France24English.fr"><title lang="en">Business + Truth Or Fake</title></programme>
+<programme start="20241031213000 +0000" stop="20241031214500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031213000 +0000" stop="20241031214500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031214500 +0000" stop="20241031215100 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
+<programme start="20241031214500 +0000" stop="20241031215100 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
+<programme start="20241031215100 +0000" stop="20241031220000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
 <programme start="20241031215100 +0000" stop="20241031220000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
 <programme start="20241031220000 +0000" stop="20241031221000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031220000 +0000" stop="20241031221000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241031221000 +0000" stop="20241031225300 +0000" channel="France24English.fr"><title lang="en">The Debate</title></programme>
 <programme start="20241031221000 +0000" stop="20241031225300 +0000" channel="France24English.fr"><title lang="en">The Debate</title></programme>
 <programme start="20241031225300 +0000" stop="20241031230000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241031225300 +0000" stop="20241031230000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241031230000 +0000" stop="20241031231500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031230000 +0000" stop="20241031231500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241031231500 +0000" stop="20241031232000 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20241031231500 +0000" stop="20241031232000 +0000" channel="France24English.fr"><title lang="en">Business</title></programme>
+<programme start="20241031232000 +0000" stop="20241031233000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
 <programme start="20241031232000 +0000" stop="20241031233000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
 <programme start="20241031233000 +0000" stop="20241031234500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241031233000 +0000" stop="20241031234500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241031234500 +0000" stop="20241101000000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
 <programme start="20241031234500 +0000" stop="20241101000000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
 <programme start="20241101000000 +0000" stop="20241101001500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101000000 +0000" stop="20241101001500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101001500 +0000" stop="20241101003000 +0000" channel="France24English.fr"><title lang="en">A Propos</title></programme>
 <programme start="20241101001500 +0000" stop="20241101003000 +0000" channel="France24English.fr"><title lang="en">A Propos</title></programme>
 <programme start="20241101003000 +0000" stop="20241101004500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101003000 +0000" stop="20241101004500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101004500 +0000" stop="20241101010000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa</title></programme>
 <programme start="20241101004500 +0000" stop="20241101010000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa</title></programme>
 <programme start="20241101010000 +0000" stop="20241101011000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101010000 +0000" stop="20241101011000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101011000 +0000" stop="20241101015300 +0000" channel="France24English.fr"><title lang="en">The Debate</title></programme>
 <programme start="20241101011000 +0000" stop="20241101015300 +0000" channel="France24English.fr"><title lang="en">The Debate</title></programme>
 <programme start="20241101015300 +0000" stop="20241101020000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241101015300 +0000" stop="20241101020000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241101020000 +0000" stop="20241101021500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101020000 +0000" stop="20241101021500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101021500 +0000" stop="20241101023000 +0000" channel="France24English.fr"><title lang="en">Talking Europe, Pt 2</title></programme>
+<programme start="20241101021500 +0000" stop="20241101023000 +0000" channel="France24English.fr"><title lang="en">Talking Europe, Pt 2</title></programme>
+<programme start="20241101023000 +0000" stop="20241101024500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101023000 +0000" stop="20241101024500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101024500 +0000" stop="20241101025100 +0000" channel="France24English.fr"><title lang="en">French Connections</title></programme>
+<programme start="20241101024500 +0000" stop="20241101025100 +0000" channel="France24English.fr"><title lang="en">French Connections</title></programme>
+<programme start="20241101025100 +0000" stop="20241101030000 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
 <programme start="20241101025100 +0000" stop="20241101030000 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
 <programme start="20241101030000 +0000" stop="20241101031500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101030000 +0000" stop="20241101031500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101031500 +0000" stop="20241101033000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa</title></programme>
 <programme start="20241101031500 +0000" stop="20241101033000 +0000" channel="France24English.fr"><title lang="en">Eye On Africa</title></programme>
 <programme start="20241101033000 +0000" stop="20241101034500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101033000 +0000" stop="20241101034500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101034500 +0000" stop="20241101040000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
 <programme start="20241101034500 +0000" stop="20241101040000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
 <programme start="20241101040000 +0000" stop="20241101042000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101040000 +0000" stop="20241101042000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101042000 +0000" stop="20241101042100 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101042000 +0000" stop="20241101042100 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101042100 +0000" stop="20241101043000 +0000" channel="France24English.fr"><title lang="en">Focus (L)</title></programme>
+<programme start="20241101042100 +0000" stop="20241101043000 +0000" channel="France24English.fr"><title lang="en">Focus (L)</title></programme>
+<programme start="20241101043000 +0000" stop="20241101045000 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101043000 +0000" stop="20241101045000 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101045000 +0000" stop="20241101045100 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101045000 +0000" stop="20241101045100 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101045100 +0000" stop="20241101050000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101045100 +0000" stop="20241101050000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101050000 +0000" stop="20241101051900 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101050000 +0000" stop="20241101051900 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101051900 +0000" stop="20241101053000 +0000" channel="France24English.fr"><title lang="en">Press Review (L)</title></programme>
 <programme start="20241101051900 +0000" stop="20241101053000 +0000" channel="France24English.fr"><title lang="en">Press Review (L)</title></programme>
 <programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101060000 +0000" stop="20241101062000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101060000 +0000" stop="20241101062000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101062000 +0000" stop="20241101063000 +0000" channel="France24English.fr"><title lang="en">Global Grid (L)</title></programme>
+<programme start="20241101062000 +0000" stop="20241101063000 +0000" channel="France24English.fr"><title lang="en">Global Grid (L)</title></programme>
+<programme start="20241101063000 +0000" stop="20241101064500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101063000 +0000" stop="20241101064500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101064500 +0000" stop="20241101065000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20241101064500 +0000" stop="20241101065000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20241101065000 +0000" stop="20241101070000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101065000 +0000" stop="20241101070000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101070000 +0000" stop="20241101071500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101070000 +0000" stop="20241101071500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101071500 +0000" stop="20241101071600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101071500 +0000" stop="20241101071600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101071600 +0000" stop="20241101073000 +0000" channel="France24English.fr"><title lang="en">Tete A Tete</title></programme>
+<programme start="20241101071600 +0000" stop="20241101073000 +0000" channel="France24English.fr"><title lang="en">Tete A Tete</title></programme>
+<programme start="20241101073000 +0000" stop="20241101074500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101073000 +0000" stop="20241101074500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101074500 +0000" stop="20241101074600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101074500 +0000" stop="20241101074600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101074600 +0000" stop="20241101075200 +0000" channel="France24English.fr"><title lang="en">Global Grid</title></programme>
 <programme start="20241101074600 +0000" stop="20241101075200 +0000" channel="France24English.fr"><title lang="en">Global Grid</title></programme>
 <programme start="20241101075200 +0000" stop="20241101080000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20241101075200 +0000" stop="20241101080000 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20241101080000 +0000" stop="20241101081500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101080000 +0000" stop="20241101081500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101081500 +0000" stop="20241101081600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101081500 +0000" stop="20241101081600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101081600 +0000" stop="20241101083000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
 <programme start="20241101081600 +0000" stop="20241101083000 +0000" channel="France24English.fr"><title lang="en">Across Africa</title></programme>
 <programme start="20241101083000 +0000" stop="20241101084500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101083000 +0000" stop="20241101084500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101084500 +0000" stop="20241101084600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101084500 +0000" stop="20241101084600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101084600 +0000" stop="20241101085200 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
+<programme start="20241101084600 +0000" stop="20241101085200 +0000" channel="France24English.fr"><title lang="en">The Observers</title></programme>
+<programme start="20241101085200 +0000" stop="20241101090000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101085200 +0000" stop="20241101090000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101090000 +0000" stop="20241101091500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101090000 +0000" stop="20241101091500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101091500 +0000" stop="20241101091600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101091500 +0000" stop="20241101091600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101091600 +0000" stop="20241101092200 +0000" channel="France24English.fr"><title lang="en">French Connections</title></programme>
+<programme start="20241101091600 +0000" stop="20241101092200 +0000" channel="France24English.fr"><title lang="en">French Connections</title></programme>
+<programme start="20241101092200 +0000" stop="20241101093000 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
 <programme start="20241101092200 +0000" stop="20241101093000 +0000" channel="France24English.fr"><title lang="en">Fashion</title></programme>
 <programme start="20241101093000 +0000" stop="20241101094500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101093000 +0000" stop="20241101094500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101094500 +0000" stop="20241101094600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101094500 +0000" stop="20241101094600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101094600 +0000" stop="20241101100000 +0000" channel="France24English.fr"><title lang="en">France In Focus</title></programme>
+<programme start="20241101094600 +0000" stop="20241101100000 +0000" channel="France24English.fr"><title lang="en">France In Focus</title></programme>
+<programme start="20241101100000 +0000" stop="20241101101500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101100000 +0000" stop="20241101101500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101101500 +0000" stop="20241101101600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101101500 +0000" stop="20241101101600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101101600 +0000" stop="20241101103000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
 <programme start="20241101101600 +0000" stop="20241101103000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
 <programme start="20241101103000 +0000" stop="20241101104500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101103000 +0000" stop="20241101104500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101104500 +0000" stop="20241101104600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101104500 +0000" stop="20241101104600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101104600 +0000" stop="20241101105100 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20241101104600 +0000" stop="20241101105100 +0000" channel="France24English.fr"><title lang="en">Focus</title></programme>
+<programme start="20241101105100 +0000" stop="20241101110000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101105100 +0000" stop="20241101110000 +0000" channel="France24English.fr"><title lang="en">Sports Pad</title></programme>
 <programme start="20241101110000 +0000" stop="20241101111500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101110000 +0000" stop="20241101111500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101111500 +0000" stop="20241101113000 +0000" channel="France24English.fr"><title lang="en">Scoop (L)</title></programme>
 <programme start="20241101111500 +0000" stop="20241101113000 +0000" channel="France24English.fr"><title lang="en">Scoop (L)</title></programme>
 <programme start="20241101113000 +0000" stop="20241101114500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101113000 +0000" stop="20241101114500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101114500 +0000" stop="20241101120000 +0000" channel="France24English.fr"><title lang="en">Entre Nous (L)</title></programme>
 <programme start="20241101114500 +0000" stop="20241101120000 +0000" channel="France24English.fr"><title lang="en">Entre Nous (L)</title></programme>
 <programme start="20241101120000 +0000" stop="20241101121500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101120000 +0000" stop="20241101121500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101121500 +0000" stop="20241101123000 +0000" channel="France24English.fr"><title lang="en">Entre Nous (L)</title></programme>
 <programme start="20241101121500 +0000" stop="20241101123000 +0000" channel="France24English.fr"><title lang="en">Entre Nous (L)</title></programme>
 <programme start="20241101123000 +0000" stop="20241101125000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101123000 +0000" stop="20241101125000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101125000 +0000" stop="20241101130000 +0000" channel="France24English.fr"><title lang="en">Culture Critics (L)</title></programme>
 <programme start="20241101125000 +0000" stop="20241101130000 +0000" channel="France24English.fr"><title lang="en">Culture Critics (L)</title></programme>
 <programme start="20241101130000 +0000" stop="20241101131500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101130000 +0000" stop="20241101131500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101131500 +0000" stop="20241101131600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101131500 +0000" stop="20241101131600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101131600 +0000" stop="20241101133000 +0000" channel="France24English.fr"><title lang="en">Tete A Tete</title></programme>
+<programme start="20241101131600 +0000" stop="20241101133000 +0000" channel="France24English.fr"><title lang="en">Tete A Tete</title></programme>
+<programme start="20241101133000 +0000" stop="20241101134500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101133000 +0000" stop="20241101134500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101134500 +0000" stop="20241101140000 +0000" channel="France24English.fr"><title lang="en">Access Asia (L)</title></programme>
+<programme start="20241101134500 +0000" stop="20241101140000 +0000" channel="France24English.fr"><title lang="en">Access Asia (L)</title></programme>
+<programme start="20241101140000 +0000" stop="20241101141500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101140000 +0000" stop="20241101141500 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101141500 +0000" stop="20241101141600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101141500 +0000" stop="20241101141600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101141600 +0000" stop="20241101143000 +0000" channel="France24English.fr"><title lang="en">The 51%</title></programme>
 <programme start="20241101141600 +0000" stop="20241101143000 +0000" channel="France24English.fr"><title lang="en">The 51%</title></programme>
 <programme start="20241101143000 +0000" stop="20241101144500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101143000 +0000" stop="20241101144500 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
+<programme start="20241101144500 +0000" stop="20241101144600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101144500 +0000" stop="20241101144600 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
 <programme start="20241101144600 +0000" stop="20241101150000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
+<programme start="20241101144600 +0000" stop="20241101150000 +0000" channel="France24English.fr"><title lang="en">Arts24</title></programme>
+<programme start="20241101150000 +0000" stop="20241101151100 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101150000 +0000" stop="20241101151100 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
 <programme start="20241101151100 +0000" stop="20241101151200 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101151100 +0000" stop="20241101151200 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101151200 +0000" stop="20241101152400 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
 <programme start="20241101151200 +0000" stop="20241101152400 +0000" channel="France24English.fr"><title lang="en">Reporters</title></programme>
 <programme start="20241101152400 +0000" stop="20241101153000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241101152400 +0000" stop="20241101153000 +0000" channel="France24English.fr"><title lang="en">Short Cuts</title></programme>
+<programme start="20241101153000 +0000" stop="20241101154100 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101153000 +0000" stop="20241101154100 +0000" channel="France24English.fr"><title lang="en">Bulletin (L)</title></programme>
 <programme start="20241101154100 +0000" stop="20241101154200 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101154100 +0000" stop="20241101154200 +0000" channel="France24English.fr"><title lang="en">Introduction (L)</title></programme>
+<programme start="20241101154200 +0000" stop="20241101160000 +0000" channel="France24English.fr"><title lang="en">Paris Des Arts</title></programme>
 <programme start="20241101154200 +0000" stop="20241101160000 +0000" channel="France24English.fr"><title lang="en">Paris Des Arts</title></programme>
 <programme start="20241101160000 +0000" stop="20241101162000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101160000 +0000" stop="20241101162000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101162000 +0000" stop="20241101163000 +0000" channel="France24English.fr"><title lang="en">Top Story (L)</title></programme>
 <programme start="20241101162000 +0000" stop="20241101163000 +0000" channel="France24English.fr"><title lang="en">Top Story (L)</title></programme>
 <programme start="20241101163000 +0000" stop="20241101165000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101163000 +0000" stop="20241101165000 +0000" channel="France24English.fr"><title lang="en">News (L)</title></programme>
+<programme start="20241101165000 +0000" stop="20241101170000 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
 <programme start="20241101165000 +0000" stop="20241101170000 +0000" channel="France24English.fr"><title lang="en">Sports (L)</title></programme>
 <programme start="20241030183000 +0000" stop="20241030200000 +0000" channel="Galaxy.id"><title lang="en">Keep Watching</title></programme>
 <programme start="20241030200000 +0000" stop="20241030214000 +0000" channel="Galaxy.id"><title lang="en">After We Fell</title></programme>
@@ -3743,7 +3863,7 @@
 <programme start="20241031190000 +0000" stop="20241031195000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
 <programme start="20241031195000 +0000" stop="20241031200000 +0000" channel="KidsTV.id"><title lang="en">Little Baby Bum</title></programme>
 <programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
-<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="KidsTV.id"><title lang="en">Gecko&apos;s Garage</title></programme>
+<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="KidsTV.id"><title lang="en">Entong Animasi</title></programme>
 <programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="KidsTV.id"><title lang="en">Adit Sopo Jarwo</title></programme>
 <programme start="20241031213000 +0000" stop="20241031220000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
 <programme start="20241031220000 +0000" stop="20241031223000 +0000" channel="KidsTV.id"><title lang="en">Gecko&apos;s Garage</title></programme>
@@ -3753,8 +3873,7 @@
 <programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="KidsTV.id"><title lang="en">Selamat Pagi Upin &amp; Ipin</title></programme>
 <programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="KidsTV.id"><title lang="en">Sahabat Selamanya Upin &amp; Ipin</title></programme>
 <programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="KidsTV.id"><title lang="en">Larva S2</title></programme>
-<programme start="20241101033000 +0000" stop="20241101042000 +0000" channel="KidsTV.id"><title lang="en">Kiko S1</title></programme>
-<programme start="20241101042000 +0000" stop="20241101043000 +0000" channel="KidsTV.id"><title lang="en">Little Baby Bum</title></programme>
+<programme start="20241101033000 +0000" stop="20241101043000 +0000" channel="KidsTV.id"><title lang="en">Kiko S2</title></programme>
 <programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="KidsTV.id"><title lang="en">Blippi Wonders</title></programme>
 <programme start="20241101050000 +0000" stop="20241101053000 +0000" channel="KidsTV.id"><title lang="en">Om Nom Stories</title></programme>
 <programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="KidsTV.id"><title lang="en">Rat A Tat</title></programme>
@@ -3923,7 +4042,7 @@
 <programme start="20241031183000 +0000" stop="20241031190000 +0000" channel="Life.id"><title lang="en">In Touch</title></programme>
 <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="Life.id"><title lang="en">Rumah CGN Keluarga</title></programme>
 <programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="Life.id"><title lang="en">Solusi</title></programme>
-<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="Life.id"><title lang="en">Life Music</title></programme>
+<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="Life.id"><title lang="en">This Is My Song</title></programme>
 <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="Life.id"><title lang="en">Building A Better You</title></programme>
 <programme start="20241031220000 +0000" stop="20241031230000 +0000" channel="Life.id"><title lang="en">GEBADA: Gerakan Baca Dengar...</title></programme>
 <programme start="20241031230000 +0000" stop="20241101000000 +0000" channel="Life.id"><title lang="en">Rumah CGN Keluarga</title></programme>
@@ -3935,7 +4054,7 @@
 <programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="Life.id"><title lang="en">Generasi Penerobos</title></programme>
 <programme start="20241101050000 +0000" stop="20241101053000 +0000" channel="Life.id"><title lang="en">The Art Of Church</title></programme>
 <programme start="20241101053000 +0000" stop="20241101063000 +0000" channel="Life.id"><title lang="en">Rumah CGN Keluarga</title></programme>
-<programme start="20241101063000 +0000" stop="20241101070000 +0000" channel="Life.id"><title lang="en">Life Music</title></programme>
+<programme start="20241101063000 +0000" stop="20241101070000 +0000" channel="Life.id"><title lang="en">This Is My Song</title></programme>
 <programme start="20241101070000 +0000" stop="20241101073000 +0000" channel="Life.id"><title lang="en">Life Study</title></programme>
 <programme start="20241101073000 +0000" stop="20241101080000 +0000" channel="Life.id"><title lang="en">Life Unlimited</title></programme>
 <programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="Life.id"><title lang="en">Building A Better You</title></programme>
@@ -5963,22 +6082,19 @@
 <programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
 <programme start="20241031150000 +0000" stop="20241031163000 +0000" channel="Sportstars2.id"><title lang="en">TPI Fighting Championship</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="Sportstars2.id"><title lang="en">30 Minutes Extreme</title></programme>
-<programme start="20241031170000 +0000" stop="20241031203000 +0000" channel="Sportstars2.id"><title lang="en">AFC Champions League Elite</title></programme>
-<programme start="20241031203000 +0000" stop="20241031220000 +0000" channel="Sportstars2.id"><title lang="en">Liga Futsal Profesional 23/24</title></programme>
-<programme start="20241031220000 +0000" stop="20241031223000 +0000" channel="Sportstars2.id"><title lang="en">The Ultimate Goals</title></programme>
-<programme start="20241031223000 +0000" stop="20241031230000 +0000" channel="Sportstars2.id"><title lang="en">Europe</title></programme>
-<programme start="20241031230000 +0000" stop="20241101010000 +0000" channel="Sportstars2.id"><title lang="en">Proliga 2020</title></programme>
-<programme start="20241101010000 +0000" stop="20241101023000 +0000" channel="Sportstars2.id"><title lang="en">FIBA</title></programme>
-<programme start="20241101023000 +0000" stop="20241101040000 +0000" channel="Sportstars2.id"><title lang="en">Liga Futsal Profesional 23/24</title></programme>
-<programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="Sportstars2.id"><title lang="en">Shopee ASEAN Club C&apos;ships</title></programme>
-<programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="Sportstars2.id"><title lang="en">The Ultimate Goals</title></programme>
-<programme start="20241101063000 +0000" stop="20241101070000 +0000" channel="Sportstars2.id"><title lang="en">Europe</title></programme>
-<programme start="20241101070000 +0000" stop="20241101103000 +0000" channel="Sportstars2.id"><title lang="en">Best Of Badminton</title></programme>
-<programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="Sportstars2.id"><title lang="en">World Classic Football</title></programme>
-<programme start="20241101110000 +0000" stop="20241101130000 +0000" channel="Sportstars2.id"><title lang="en">Proliga 2020</title></programme>
-<programme start="20241101130000 +0000" stop="20241101133000 +0000" channel="Sportstars2.id"><title lang="en">The Ultimate Goals</title></programme>
-<programme start="20241101133000 +0000" stop="20241101150000 +0000" channel="Sportstars2.id"><title lang="en">FIBA</title></programme>
-<programme start="20241101150000 +0000" stop="20241101170000 +0000" channel="Sportstars2.id"><title lang="en">Shopee ASEAN Club C&apos;ships</title></programme>
+<programme start="20241031170000 +0000" stop="20241031190000 +0000" channel="Sportstars2.id"><title lang="en">ACL Elite: EST Vs NSR</title></programme>
+<programme start="20241031190000 +0000" stop="20241031210000 +0000" channel="Sportstars2.id"><title lang="en">AFC U17 Asian Cup: IDN Vs KUW</title></programme>
+<programme start="20241031210000 +0000" stop="20241031230000 +0000" channel="Sportstars2.id"><title lang="en">ACL Elite: RAY Vs AHL</title></programme>
+<programme start="20241031230000 +0000" stop="20241101023000 +0000" channel="Sportstars2.id"><title lang="en">BNI Indonesia Masters</title></programme>
+<programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="Sportstars2.id"><title lang="en">Sports Today</title></programme>
+<programme start="20241101030000 +0000" stop="20241101043000 +0000" channel="Sportstars2.id"><title lang="en">TPI Fighting Championship</title></programme>
+<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="Sportstars2.id"><title lang="en">World Classic League</title></programme>
+<programme start="20241101050000 +0000" stop="20241101070000 +0000" channel="Sportstars2.id"><title lang="en">AFC U17 Asian Cup: IDN Vs KUW</title></programme>
+<programme start="20241101070000 +0000" stop="20241101100000 +0000" channel="Sportstars2.id"><title lang="en">BNI Indonesia Masters (L)</title></programme>
+<programme start="20241101100000 +0000" stop="20241101130000 +0000" channel="Sportstars2.id"><title lang="en">BNI Indonesia Masters (L)</title></programme>
+<programme start="20241101130000 +0000" stop="20241101150000 +0000" channel="Sportstars2.id"><title lang="en">Rodri &amp; Yamal Show: SPA Vs CRO</title></programme>
+<programme start="20241101150000 +0000" stop="20241101163000 +0000" channel="Sportstars2.id"><title lang="en">TPI Fighting Championship</title></programme>
+<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="Sportstars2.id"><title lang="en">30 Minutes Extreme</title></programme>
 <programme start="20241030183000 +0000" stop="20241030213000 +0000" channel="Sportstars.id"><title lang="en">BNI Indonesia Masters 2</title></programme>
 <programme start="20241030213000 +0000" stop="20241030230000 +0000" channel="Sportstars.id"><title lang="en">BNI Indonesia Masters 2</title></programme>
 <programme start="20241030230000 +0000" stop="20241030233000 +0000" channel="Sportstars.id"><title lang="en">Sports Today</title></programme>
@@ -6592,54 +6708,54 @@
 <programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="tvOne.id"><title lang="en">Cover Story One</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Malam (L)</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Malam (L)</title></programme>
-<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031180000 +0000" stop="20241031193000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031180000 +0000" stop="20241031193000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031230000 +0000" stop="20241031233000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031230000 +0000" stop="20241031233000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031233000 +0000" stop="20241101013000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241031233000 +0000" stop="20241101013000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101090000 +0000" stop="20241101110000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101090000 +0000" stop="20241101110000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101110000 +0000" stop="20241101130000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101110000 +0000" stop="20241101130000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101130000 +0000" stop="20241101143000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101130000 +0000" stop="20241101143000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101143000 +0000" stop="20241101153000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101143000 +0000" stop="20241101153000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101153000 +0000" stop="20241101160000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101153000 +0000" stop="20241101160000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
-<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="tvOne.id"><title lang="en">tvOne</title></programme>
+<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama</title></programme>
+<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama</title></programme>
+<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="tvOne.id"><title lang="en">Kabar Hari Ini</title></programme>
+<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="tvOne.id"><title lang="en">Kabar Hari Ini</title></programme>
+<programme start="20241031180000 +0000" stop="20241031200000 +0000" channel="tvOne.id"><title lang="en">Kabar Petang</title></programme>
+<programme start="20241031180000 +0000" stop="20241031200000 +0000" channel="tvOne.id"><title lang="en">Kabar Petang</title></programme>
+<programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama</title></programme>
+<programme start="20241031200000 +0000" stop="20241031203000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama</title></programme>
+<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="tvOne.id"><title lang="en">Kabar Hari Ini</title></programme>
+<programme start="20241031203000 +0000" stop="20241031210000 +0000" channel="tvOne.id"><title lang="en">Kabar Hari Ini</title></programme>
+<programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Pagi</title></programme>
+<programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Pagi</title></programme>
+<programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="tvOne.id"><title lang="en">Kabar Pagi (L)</title></programme>
+<programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="tvOne.id"><title lang="en">Kabar Pagi (L)</title></programme>
+<programme start="20241031230000 +0000" stop="20241031233000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Pagi (L)</title></programme>
+<programme start="20241031230000 +0000" stop="20241031233000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Pagi (L)</title></programme>
+<programme start="20241031233000 +0000" stop="20241101013000 +0000" channel="tvOne.id"><title lang="en">Apa Kabar Indonesia Pagi (L)</title></programme>
+<programme start="20241031233000 +0000" stop="20241101013000 +0000" channel="tvOne.id"><title lang="en">Apa Kabar Indonesia Pagi (L)</title></programme>
+<programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama Pagi (L)</title></programme>
+<programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama Pagi (L)</title></programme>
+<programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="tvOne.id"><title lang="en">Hidup Sehat</title></programme>
+<programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="tvOne.id"><title lang="en">Hidup Sehat</title></programme>
+<programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="tvOne.id"><title lang="en">Inspirasi Pagi (L)</title></programme>
+<programme start="20241101030000 +0000" stop="20241101033000 +0000" channel="tvOne.id"><title lang="en">Inspirasi Pagi (L)</title></programme>
+<programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="tvOne.id"><title lang="en">Kabar Dunia (L)</title></programme>
+<programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="tvOne.id"><title lang="en">Kabar Dunia (L)</title></programme>
+<programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="tvOne.id"><title lang="en">Kabar Siang (L)</title></programme>
+<programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="tvOne.id"><title lang="en">Kabar Siang (L)</title></programme>
+<programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="tvOne.id"><title lang="en">Apa Kabar Indonesia Siang (L)</title></programme>
+<programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="tvOne.id"><title lang="en">Apa Kabar Indonesia Siang (L)</title></programme>
+<programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="tvOne.id"><title lang="en">Kabar Pemilukada (L)</title></programme>
+<programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="tvOne.id"><title lang="en">Kabar Pemilukada (L)</title></programme>
+<programme start="20241101090000 +0000" stop="20241101100000 +0000" channel="tvOne.id"><title lang="en">Kabar Petang (L)</title></programme>
+<programme start="20241101090000 +0000" stop="20241101100000 +0000" channel="tvOne.id"><title lang="en">Kabar Petang (L)</title></programme>
+<programme start="20241101100000 +0000" stop="20241101120000 +0000" channel="tvOne.id"><title lang="en">Debat Calon Walikota... (L)</title></programme>
+<programme start="20241101100000 +0000" stop="20241101120000 +0000" channel="tvOne.id"><title lang="en">Debat Calon Walikota... (L)</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="tvOne.id"><title lang="en">Apa Kabar Indonesia Malam (L)</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="tvOne.id"><title lang="en">Apa Kabar Indonesia Malam (L)</title></programme>
+<programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="tvOne.id"><title lang="en">One On One (L)</title></programme>
+<programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="tvOne.id"><title lang="en">One On One (L)</title></programme>
+<programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama (L)</title></programme>
+<programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="tvOne.id"><title lang="en">Kabar Utama (L)</title></programme>
+<programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="tvOne.id"><title lang="en">Kabar Hari Ini (L)</title></programme>
+<programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="tvOne.id"><title lang="en">Kabar Hari Ini (L)</title></programme>
+<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="tvOne.id"><title lang="en">Telusur</title></programme>
+<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="tvOne.id"><title lang="en">Telusur</title></programme>
+<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Malam (L)</title></programme>
+<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="tvOne.id"><title lang="en">Kabar Arena Malam (L)</title></programme>
 <programme start="20241030170000 +0000" stop="20241030173000 +0000" channel="TVRINasional.id"><title lang="en">Monitor Olahraga (L)</title></programme>
 <programme start="20241030173000 +0000" stop="20241030203000 +0000" channel="TVRINasional.id"><title lang="en">Antar Gelanggang</title></programme>
 <programme start="20241030203000 +0000" stop="20241030210000 +0000" channel="TVRINasional.id"><title lang="en">Inspirasi Indonesia</title></programme>
