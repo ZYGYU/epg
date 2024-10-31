@@ -835,8 +835,8 @@
 <programme start="20241031010000 +0000" stop="20241031025700 +0000" channel="ChampionsTV1.id"><title lang="id">Venezia vs. Udinese - Serie A 2024/25</title></programme>
 <programme start="20241031025700 +0000" stop="20241031040000 +0000" channel="ChampionsTV1.id"><title lang="id">Liga Portugal</title></programme>
 <programme start="20241031040000 +0000" stop="20241031095100 +0000" channel="ChampionsTV1.id"><title lang="id">WTA 250: Jiangxi Open - Round of 16</title></programme>
-<programme start="20241031095100 +0000" stop="20241031100000 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
-<programme start="20241031100000 +0000" stop="20241031120000 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
+<programme start="20241031095100 +0000" stop="20241031095800 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
+<programme start="20241031095800 +0000" stop="20241031120000 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
 <programme start="20241031120000 +0000" stop="20241031123000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="ChampionsTV1.id"><title lang="id">Mavericks</title></programme>
 <programme start="20241031130000 +0000" stop="20241031150000 +0000" channel="ChampionsTV1.id"><title lang="id">Atalanta vs. Monza - Serie A 2024/25</title></programme>
