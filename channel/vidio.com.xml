@@ -88,7 +88,7 @@
 <programme start="20241031160000 +0000" stop="20241031161500 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
 <programme start="20241031161500 +0000" stop="20241031163000 +0000" channel="ABCAustralia.au"><title lang="id">The Business</title></programme>
 <programme start="20241031163000 +0000" stop="20241031173000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="ABCAustralia.au"><title lang="id">America, Are You Ok?</title></programme>
+<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="ABCAustralia.au"><title lang="id">Can You Buy An Election? : America, Are You Ok?</title></programme>
 <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="ABCAustralia.au"><title lang="id">Underwater Kingdom : Australia&apos;s Wild Moments</title></programme>
 <programme start="20241031190000 +0000" stop="20241031193000 +0000" channel="ABCAustralia.au"><title lang="id">Ongerup, WA : Back Roads</title></programme>
 <programme start="20241031193000 +0000" stop="20241031200000 +0000" channel="ABCAustralia.au"><title lang="id">7.30</title></programme>
@@ -840,8 +840,8 @@
 <programme start="20241031130000 +0000" stop="20241031150000 +0000" channel="ChampionsTV1.id"><title lang="id">Atalanta vs. Monza - Serie A 2024/25</title></programme>
 <programme start="20241031150000 +0000" stop="20241031170000 +0000" channel="ChampionsTV1.id"><title lang="id">Aston Villa vs. Crystal Palace : English Football League Cup Soccer</title></programme>
 <programme start="20241031170000 +0000" stop="20241031171500 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
-<programme start="20241031171500 +0000" stop="20241031193000 +0000" channel="ChampionsTV1.id"><title lang="id">Mavericks</title></programme>
-<programme start="20241031193000 +0000" stop="20241031214000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
+<programme start="20241031171500 +0000" stop="20241031193000 +0000" channel="ChampionsTV1.id"><title lang="id">Genoa vs Fiorentina - Serie A 2024/25</title></programme>
+<programme start="20241031193000 +0000" stop="20241031214000 +0000" channel="ChampionsTV1.id"><title lang="id">Roma vs Torino - Serie A 2024/25</title></programme>
 <programme start="20241031214000 +0000" stop="20241031220000 +0000" channel="ChampionsTV1.id"><title lang="id">Preston North End vs. Arsenal : English Football League Cup Soccer</title></programme>
 <programme start="20241031220000 +0000" stop="20241101000000 +0000" channel="ChampionsTV1.id"><title lang="id">Aston Villa vs. Crystal Palace : English Football League Cup Soccer</title></programme>
 <programme start="20241101000000 +0000" stop="20241101003000 +0000" channel="ChampionsTV1.id"><title lang="id">Mavericks</title></programme>
@@ -893,8 +893,8 @@
 <programme start="20241030213000 +0000" stop="20241030220000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Greatest 50</title></programme>
 <programme start="20241030220000 +0000" stop="20241030223000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241030223000 +0000" stop="20241030230000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
-<programme start="20241030230000 +0000" stop="20241031013000 +0000" channel="ChampionsTV3.id"><title lang="id">Boston Celtics vs Indiana Pacers - NBA</title></programme>
-<programme start="20241031013000 +0000" stop="20241031040000 +0000" channel="ChampionsTV3.id"><title lang="id">San Antonio Spurs vs Oklahoma City Thunder - NBA</title></programme>
+<programme start="20241030230000 +0000" stop="20241031015200 +0000" channel="ChampionsTV3.id"><title lang="id">Boston Celtics vs Indiana Pacers - NBA</title></programme>
+<programme start="20241031015200 +0000" stop="20241031040000 +0000" channel="ChampionsTV3.id"><title lang="id">San Antonio Spurs vs Oklahoma City Thunder - NBA</title></programme>
 <programme start="20241031040000 +0000" stop="20241031043000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241031043000 +0000" stop="20241031050000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241031050000 +0000" stop="20241031053000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
@@ -1009,7 +1009,7 @@
 <programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="ChampionsTVEPL.id"><title lang="id">The Catch Up Show</title></programme>
 <programme start="20241031080000 +0000" stop="20241031083000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Asmir Begovic : Premier League Stories</title></programme>
 <programme start="20241031083000 +0000" stop="20241031090000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Roberto Di Matteo : Premier League Stories</title></programme>
-<programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Coaching : The Art of...</title></programme>
+<programme start="20241031090000 +0000" stop="20241031100000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Coaching : Premier League: The Art of...</title></programme>
 <programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Steve Bruce : One2Eleven</title></programme>
 <programme start="20241031110000 +0000" stop="20241031113000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Blackburn 94/95 : Premier League Rewind</title></programme>
 <programme start="20241031113000 +0000" stop="20241031120000 +0000" channel="ChampionsTVEPL.id"><title lang="id">Netbusters</title></programme>
@@ -3411,20 +3411,18 @@
 <programme start="20241031194500 +0000" stop="20241031204000 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
 <programme start="20241031204000 +0000" stop="20241031220000 +0000" channel="tvNAsia.hk"><title lang="id">Be Melodramatic</title></programme>
 <programme start="20241031220000 +0000" stop="20241031222000 +0000" channel="tvNAsia.hk"><title lang="id">You Can Cook With Sam Kim</title></programme>
-<programme start="20241031222000 +0000" stop="20241031224000 +0000" channel="tvNAsia.hk"><title lang="id">You Can Cook With Sam Kim</title></programme>
-<programme start="20241031224000 +0000" stop="20241101003000 +0000" channel="tvNAsia.hk"><title lang="id">3 Meals a Day</title></programme>
-<programme start="20241101003000 +0000" stop="20241101030000 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
+<programme start="20241031222000 +0000" stop="20241101001000 +0000" channel="tvNAsia.hk"><title lang="id">3 Meals a Day</title></programme>
+<programme start="20241101001000 +0000" stop="20241101030000 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
 <programme start="20241101030000 +0000" stop="20241101042000 +0000" channel="tvNAsia.hk"><title lang="id">Be Melodramatic</title></programme>
 <programme start="20241101042000 +0000" stop="20241101051500 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
-<programme start="20241101051500 +0000" stop="20241101065500 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
-<programme start="20241101065500 +0000" stop="20241101084000 +0000" channel="tvNAsia.hk"><title lang="id">The Genius Paik</title></programme>
-<programme start="20241101084000 +0000" stop="20241101085500 +0000" channel="tvNAsia.hk"><title lang="id">You Can Cook With Sam Kim</title></programme>
+<programme start="20241101051500 +0000" stop="20241101071500 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
+<programme start="20241101071500 +0000" stop="20241101085500 +0000" channel="tvNAsia.hk"><title lang="id">The Genius Paik</title></programme>
 <programme start="20241101085500 +0000" stop="20241101092500 +0000" channel="tvNAsia.hk"><title lang="id">Chansung&apos;s Cooking</title></programme>
 <programme start="20241101092500 +0000" stop="20241101111500 +0000" channel="tvNAsia.hk"><title lang="id">3 Meals a Day</title></programme>
 <programme start="20241101111500 +0000" stop="20241101121500 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
 <programme start="20241101121500 +0000" stop="20241101131500 +0000" channel="tvNAsia.hk"><title lang="id">To Be Announced</title></programme>
 <programme start="20241101131500 +0000" stop="20241101143000 +0000" channel="tvNAsia.hk"><title lang="id">Be Melodramatic</title></programme>
-<programme start="20241101143000 +0000" stop="20241101170000 +0000" channel="tvNAsia.hk"><title lang="id">Stage Fighter</title></programme>
+<programme start="20241101143000 +0000" stop="20241101171500 +0000" channel="tvNAsia.hk"><title lang="id">Stage Fighter</title></programme>
 <programme start="20241030170000 +0000" stop="20241030173000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama 2</title></programme>
 <programme start="20241030173000 +0000" stop="20241030200000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
 <programme start="20241030200000 +0000" stop="20241030203000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama Pagi</title></programme>
