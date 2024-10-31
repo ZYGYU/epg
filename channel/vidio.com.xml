@@ -561,6 +561,15 @@
 <programme start="20241031203000 +0000" stop="20241031220000 +0000" channel="ANTV.id"><title lang="id">Anandhi</title></programme>
 <programme start="20241031220000 +0000" stop="20241031223000 +0000" channel="ANTV.id"><title lang="id">Cakrawala</title></programme>
 <programme start="20241031223000 +0000" stop="20241031230000 +0000" channel="ANTV.id"><title lang="id">Senyum Iman</title></programme>
+<programme start="20241031230000 +0000" stop="20241101000000 +0000" channel="ANTV.id"><title lang="id">KASUS VIRAL</title></programme>
+<programme start="20241101000000 +0000" stop="20241101020000 +0000" channel="ANTV.id"><title lang="id">JODOH WASIAT BAPAK BABAK 2</title></programme>
+<programme start="20241101020000 +0000" stop="20241101053000 +0000" channel="ANTV.id"><title lang="id">MEGA BOLLYWOOD JEET</title></programme>
+<programme start="20241101053000 +0000" stop="20241101070000 +0000" channel="ANTV.id"><title lang="id">JANJI CINTA INSPEKTUR VIRAT</title></programme>
+<programme start="20241101070000 +0000" stop="20241101090000 +0000" channel="ANTV.id"><title lang="id">HASRAT CINTA THE HAI CHAHATEIN</title></programme>
+<programme start="20241101090000 +0000" stop="20241101111500 +0000" channel="ANTV.id"><title lang="id">PARINEETII</title></programme>
+<programme start="20241101111500 +0000" stop="20241101133000 +0000" channel="ANTV.id"><title lang="id">AINI &quot;MALAIKAT TAK BERSAYAP&quot;</title></programme>
+<programme start="20241101133000 +0000" stop="20241101153000 +0000" channel="ANTV.id"><title lang="id">SINEMA LAGA KLASIK BALADA CINTA ANGLING DHARMA</title></programme>
+<programme start="20241101153000 +0000" stop="20241101170000 +0000" channel="ANTV.id"><title lang="id">JODOH WASIAT BAPAK BABAK 2</title></programme>
 <programme start="20241030170000 +0000" stop="20241030173000 +0000" channel="ArirangWorld.kr"><title lang="id">The Kulture Wave</title></programme>
 <programme start="20241030173000 +0000" stop="20241030180000 +0000" channel="ArirangWorld.kr"><title lang="id">Within the Frame</title></programme>
 <programme start="20241030180000 +0000" stop="20241030183000 +0000" channel="ArirangWorld.kr"><title lang="id">Extreme Job</title></programme>
@@ -886,7 +895,8 @@
 <programme start="20241030220000 +0000" stop="20241030223000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241030223000 +0000" stop="20241030230000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241030230000 +0000" stop="20241031015200 +0000" channel="ChampionsTV3.id"><title lang="id">Boston Celtics vs Indiana Pacers - NBA</title></programme>
-<programme start="20241031015200 +0000" stop="20241031040000 +0000" channel="ChampionsTV3.id"><title lang="id">San Antonio Spurs vs Oklahoma City Thunder - NBA</title></programme>
+<programme start="20241031015200 +0000" stop="20241031034800 +0000" channel="ChampionsTV3.id"><title lang="id">San Antonio Spurs vs Oklahoma City Thunder - NBA</title></programme>
+<programme start="20241031034800 +0000" stop="20241031040000 +0000" channel="ChampionsTV3.id"><title lang="id">Filler</title></programme>
 <programme start="20241031040000 +0000" stop="20241031043000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241031043000 +0000" stop="20241031050000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241031050000 +0000" stop="20241031053000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
@@ -2942,11 +2952,11 @@
 <programme start="20241031174500 +0000" stop="20241031184500 +0000" channel="SCTV.id"><title lang="id">Welcome To Hati Neng Galon</title></programme>
 <programme start="20241031184500 +0000" stop="20241031191500 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
 <programme start="20241031191500 +0000" stop="20241031194500 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
-<programme start="20241031194500 +0000" stop="20241031210000 +0000" channel="SCTV.id"><title lang="id">Cintaku Membawamu Ke Bali : Sinema Dini Hari</title></programme>
+<programme start="20241031194500 +0000" stop="20241031210000 +0000" channel="SCTV.id"><title lang="id">Sinema Dini Hari : Cintaku Membawamu Ke Bali</title></programme>
 <programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Pagi</title></programme>
 <programme start="20241031230000 +0000" stop="20241101000000 +0000" channel="SCTV.id"><title lang="id">Halo Selebriti</title></programme>
-<programme start="20241101000000 +0000" stop="20241101013000 +0000" channel="SCTV.id"><title lang="id">Gaspoll</title></programme>
+<programme start="20241101000000 +0000" stop="20241101013000 +0000" channel="SCTV.id"><title lang="id">Gaspol (Games Asyik Bikin Nampol)</title></programme>
 <programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="SCTV.id"><title lang="id">Cinta Suci Dibayar Kredit</title></programme>
 <programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="SCTV.id"><title lang="id">Indonesian Simple</title></programme>
 <programme start="20241101030000 +0000" stop="20241101050000 +0000" channel="SCTV.id"><title lang="id">Tanpa Kamu, Warga Indonesia Kurang Satu : SCTV FTV Pagi</title></programme>
@@ -3057,8 +3067,8 @@
 <programme start="20241030180000 +0000" stop="20241030202000 +0000" channel="SPOTV2.id"><title lang="id">2024 Supercars C&apos;ship Gold Coast</title></programme>
 <programme start="20241030202000 +0000" stop="20241030233000 +0000" channel="SPOTV2.id"><title lang="id">WTT Champions Montpellier 2024</title></programme>
 <programme start="20241030233000 +0000" stop="20241031000800 +0000" channel="SPOTV2.id"><title lang="id">Hyundai Archery World Cup Tlaxcala 2024 Recurve Final</title></programme>
-<programme start="20241031000800 +0000" stop="20241031035000 +0000" channel="SPOTV2.id"><title lang="id">World Series - Game 5: Los Angeles Dodgers vs New York Yankees - MLB</title></programme>
-<programme start="20241031035000 +0000" stop="20241031040000 +0000" channel="SPOTV2.id"><title lang="id">Hyundai Archery World Cup Tlaxcala 2024 Conpound Final</title></programme>
+<programme start="20241031000800 +0000" stop="20241031035900 +0000" channel="SPOTV2.id"><title lang="id">World Series - Game 5: Los Angeles Dodgers vs New York Yankees - MLB</title></programme>
+<programme start="20241031035900 +0000" stop="20241031040000 +0000" channel="SPOTV2.id"><title lang="id">Hyundai Archery World Cup Tlaxcala 2024 Conpound Final</title></programme>
 <programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2024 Round 17 - Qatar Airways Australian Motorcycle Grand Prix</title></programme>
 <programme start="20241031050000 +0000" stop="20241031061000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP 2024 Round 17 - Qatar Airways Australian Motorcycle Grand Prix</title></programme>
 <programme start="20241031061000 +0000" stop="20241031084500 +0000" channel="SPOTV2.id"><title lang="id">Grand Prix of Qatar : MotoGP Racing</title></programme>
@@ -3077,8 +3087,8 @@
 <programme start="20241101025000 +0000" stop="20241101040000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP Free Practice 1: MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title></programme>
 <programme start="20241101040000 +0000" stop="20241101051000 +0000" channel="SPOTV2.id"><title lang="id">Velocity Invitational 2024</title></programme>
 <programme start="20241101051000 +0000" stop="20241101055500 +0000" channel="SPOTV2.id"><title lang="id">Moto3 Practice 1: MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title></programme>
-<programme start="20241101055500 +0000" stop="20241101065000 +0000" channel="SPOTV2.id"><title lang="id">PETRONAS Grand Prix of Malaysia, Practice 1 : Moto2 GP Racing</title></programme>
-<programme start="20241101065000 +0000" stop="20241101083000 +0000" channel="SPOTV2.id"><title lang="id">PETRONAS Grand Prix of Malaysia, Practice : MotoGP Racing</title></programme>
+<programme start="20241101055500 +0000" stop="20241101065000 +0000" channel="SPOTV2.id"><title lang="id">Moto2 Practice 1: MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title></programme>
+<programme start="20241101065000 +0000" stop="20241101083000 +0000" channel="SPOTV2.id"><title lang="id">MotoGP Practice: MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title></programme>
 <programme start="20241101083000 +0000" stop="20241101103000 +0000" channel="SPOTV2.id"><title lang="id">Brisbane Roar vs. Sydney FC : A-League Men Soccer</title></programme>
 <programme start="20241101103000 +0000" stop="20241101125500 +0000" channel="SPOTV2.id"><title lang="id">Al-Ittihad vs. Al-Ahli Saudi FC : Saudi League Soccer</title></programme>
 <programme start="20241101125500 +0000" stop="20241101145600 +0000" channel="SPOTV2.id"><title lang="id">Women - Short Program : 2024 World Figure Skating Championships</title></programme>
