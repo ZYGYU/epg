@@ -2,7 +2,7 @@ name: AIO
 
 on:
   schedule:
-    - cron: "* */3 * * *"  # Runs every day at midnight
+    - cron: "1 0 * * *"  # Runs every day at midnight
   workflow_dispatch:
 
 concurrency:
