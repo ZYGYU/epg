@@ -834,7 +834,8 @@
 <programme start="20241031003000 +0000" stop="20241031010000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20241031010000 +0000" stop="20241031025700 +0000" channel="ChampionsTV1.id"><title lang="id">Venezia vs. Udinese - Serie A 2024/25</title></programme>
 <programme start="20241031025700 +0000" stop="20241031040000 +0000" channel="ChampionsTV1.id"><title lang="id">Liga Portugal</title></programme>
-<programme start="20241031040000 +0000" stop="20241031100000 +0000" channel="ChampionsTV1.id"><title lang="id">WTA 250: Jiangxi Open - Round of 16</title></programme>
+<programme start="20241031040000 +0000" stop="20241031095100 +0000" channel="ChampionsTV1.id"><title lang="id">WTA 250: Jiangxi Open - Round of 16</title></programme>
+<programme start="20241031095100 +0000" stop="20241031100000 +0000" channel="ChampionsTV1.id"><title lang="id">Filler</title></programme>
 <programme start="20241031100000 +0000" stop="20241031120000 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
 <programme start="20241031120000 +0000" stop="20241031123000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="ChampionsTV1.id"><title lang="id">Mavericks</title></programme>
@@ -3092,7 +3093,8 @@
 <programme start="20241030180000 +0000" stop="20241030190000 +0000" channel="SPOTV.id"><title lang="id">Global Series Round 1 : MotoGP eSports Championship</title></programme>
 <programme start="20241030190000 +0000" stop="20241031042000 +0000" channel="SPOTV.id"><title lang="id">Denmark Open: Semi Finals : Badminton</title></programme>
 <programme start="20241031042000 +0000" stop="20241031045000 +0000" channel="SPOTV.id"><title lang="id">FIA Pure Motorsport 2024 - Episode 10</title></programme>
-<programme start="20241031045000 +0000" stop="20241031100000 +0000" channel="SPOTV.id"><title lang="id">BDMNTN XL - Day 1 Session 1 - BDMNTN XL</title></programme>
+<programme start="20241031045000 +0000" stop="20241031095300 +0000" channel="SPOTV.id"><title lang="id">BDMNTN XL - Day 1 Session 1 - BDMNTN XL</title></programme>
+<programme start="20241031095300 +0000" stop="20241031100000 +0000" channel="SPOTV.id"><title lang="id">Filler</title></programme>
 <programme start="20241031100000 +0000" stop="20241031105000 +0000" channel="SPOTV.id"><title lang="id">FIA Pure Motorsport</title></programme>
 <programme start="20241031105000 +0000" stop="20241031160000 +0000" channel="SPOTV.id"><title lang="id">BDMNTN XL - Day 1 Session 2 - BDMNTN XL</title></programme>
 <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="SPOTV.id"><title lang="id">PT Grand Prix of Thailand : MotoGP Racing</title></programme>
