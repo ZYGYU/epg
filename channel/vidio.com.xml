@@ -837,7 +837,7 @@
 <programme start="20241031040000 +0000" stop="20241031100000 +0000" channel="ChampionsTV1.id"><title lang="id">WTA 250: Jiangxi Open - Round of 16</title></programme>
 <programme start="20241031100000 +0000" stop="20241031120000 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
 <programme start="20241031120000 +0000" stop="20241031123000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
-<programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="ChampionsTV1.id"><title lang="id">Marverick - S2</title></programme>
+<programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="ChampionsTV1.id"><title lang="id">Mavericks</title></programme>
 <programme start="20241031130000 +0000" stop="20241031150000 +0000" channel="ChampionsTV1.id"><title lang="id">Atalanta vs. Monza - Serie A 2024/25</title></programme>
 <programme start="20241031150000 +0000" stop="20241031170000 +0000" channel="ChampionsTV1.id"><title lang="id">Aston Villa vs. Crystal Palace : English Football League Cup Soccer</title></programme>
 <programme start="20241031170000 +0000" stop="20241031171500 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
@@ -849,10 +849,7 @@
 <programme start="20241101003000 +0000" stop="20241101010000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
 <programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="ChampionsTV1.id"><title lang="id">Brighton &amp; Hove Albion vs. Liverpool : English Football League Cup Soccer</title></programme>
 <programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="ChampionsTV1.id"><title lang="id">Eredivisie Highlights</title></programme>
-<programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="ChampionsTV1.id"><title lang="id">WTA 250: Jiangxi Open - Quarter Final</title></programme>
-<programme start="20241101060000 +0000" stop="20241101073000 +0000" channel="ChampionsTV1.id"><title lang="id">ATP/WTA Tennis</title></programme>
-<programme start="20241101073000 +0000" stop="20241101090000 +0000" channel="ChampionsTV1.id"><title lang="id">ATP/WTA Tennis</title></programme>
-<programme start="20241101090000 +0000" stop="20241101110000 +0000" channel="ChampionsTV1.id"><title lang="id">ATP/WTA Tennis</title></programme>
+<programme start="20241101040000 +0000" stop="20241101110000 +0000" channel="ChampionsTV1.id"><title lang="id">WTA 250: Jiangxi Open - Quarter Final</title></programme>
 <programme start="20241101110000 +0000" stop="20241101113000 +0000" channel="ChampionsTV1.id"><title lang="id">The Immortal</title></programme>
 <programme start="20241101113000 +0000" stop="20241101120000 +0000" channel="ChampionsTV1.id"><title lang="id">EFL Highlights</title></programme>
 <programme start="20241101120000 +0000" stop="20241101123000 +0000" channel="ChampionsTV1.id"><title lang="id">Behind the Gate</title></programme>
@@ -901,10 +898,8 @@
 <programme start="20241031043000 +0000" stop="20241031050000 +0000" channel="ChampionsTV3.id"><title lang="id">Sports Woman</title></programme>
 <programme start="20241031050000 +0000" stop="20241031053000 +0000" channel="ChampionsTV3.id"><title lang="id">NBA Action</title></programme>
 <programme start="20241031053000 +0000" stop="20241031060000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Greatest 50</title></programme>
-<programme start="20241031060000 +0000" stop="20241031100000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 250: Hong Kong Tennis Open - Round of 16</title></programme>
-<programme start="20241031100000 +0000" stop="20241031103000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA - My Story</title></programme>
-<programme start="20241031103000 +0000" stop="20241031123000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 250: Hong Kong Tennis Open - Round of 16</title></programme>
-<programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA - My Story</title></programme>
+<programme start="20241031060000 +0000" stop="20241031103000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 250: Hong Kong Tennis Open - Round of 16</title></programme>
+<programme start="20241031103000 +0000" stop="20241031130000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA 250: Hong Kong Tennis Open - Round of 16</title></programme>
 <programme start="20241031130000 +0000" stop="20241031133000 +0000" channel="ChampionsTV3.id"><title lang="id">WTA Tour Magazine</title></programme>
 <programme start="20241031133000 +0000" stop="20241031160000 +0000" channel="ChampionsTV3.id"><title lang="id">Boston Celtics at Indiana Pacers : NBA Basketball</title></programme>
 <programme start="20241031160000 +0000" stop="20241031183000 +0000" channel="ChampionsTV3.id"><title lang="id">Above the Rim: San Antonio Spurs at Oklahoma City Thunder : NBA Basketball</title></programme>
@@ -2049,26 +2044,26 @@
 <programme start="20241031043000 +0000" stop="20241031050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
 <programme start="20241031050000 +0000" stop="20241031070000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang : Petaka Di Balik Dusta yang Mewarnai Pernikahanku</title></programme>
 <programme start="20241031070000 +0000" stop="20241031090000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Spesial : Obsesi Wanita yang Gemar Mempermainkan Dosa</title></programme>
-<programme start="20241031090000 +0000" stop="20241031110000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Sore Spesial : Obsesi Wanita yang Gemar Mempermainkan Dosa</title></programme>
+<programme start="20241031090000 +0000" stop="20241031110000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Sore Spesial : Rahasia Orang Ketiga Demi Nama Baik Istriku</title></programme>
 <programme start="20241031110000 +0000" stop="20241031130000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 New Season</title></programme>
 <programme start="20241031130000 +0000" stop="20241031153000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Line Walker 2 Invisible Spy</title></programme>
-<programme start="20241031153000 +0000" stop="20241031173000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia: The Shaolin 2</title></programme>
-<programme start="20241031173000 +0000" stop="20241031190000 +0000" channel="Indosiar.id"><title lang="id">Pendekar Rase Terbang</title></programme>
-<programme start="20241031190000 +0000" stop="20241031210000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title></programme>
+<programme start="20241031153000 +0000" stop="20241031173000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia: The Shaolin 2 - Eps 21 &amp; 22</title></programme>
+<programme start="20241031173000 +0000" stop="20241031190000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia : Pendekar Rase Terbang - Eps 07 &amp; 08</title></programme>
+<programme start="20241031190000 +0000" stop="20241031210000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : The Unity of Heroes</title></programme>
 <programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="Indosiar.id"><title lang="id">Pintu Pintu Syurga</title></programme>
 <programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="Indosiar.id"><title lang="id">Fokus Pagi</title></programme>
-<programme start="20241031230000 +0000" stop="20241101010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
-<programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi</title></programme>
+<programme start="20241031230000 +0000" stop="20241101010000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 New Season</title></programme>
+<programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Pagi : Jebakan Dendam Masa Lalu Yang Menghantui</title></programme>
 <programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="Indosiar.id"><title lang="id">Hot Kiss</title></programme>
 <programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="Indosiar.id"><title lang="id">Patroli Siang</title></programme>
 <programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="Indosiar.id"><title lang="id">Fokus Siang</title></programme>
-<programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang</title></programme>
+<programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata Siang : Aku Selalu Salah Di Hadapan Mertuaku</title></programme>
 <programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="Indosiar.id"><title lang="id">Kisah Nyata</title></programme>
 <programme start="20241101080000 +0000" stop="20241101103000 +0000" channel="Indosiar.id"><title lang="id">Liga 1</title></programme>
-<programme start="20241101103000 +0000" stop="20241101113000 +0000" channel="Indosiar.id"><title lang="id">Magic 5</title></programme>
+<programme start="20241101103000 +0000" stop="20241101113000 +0000" channel="Indosiar.id"><title lang="id">Magic 5 New Season</title></programme>
 <programme start="20241101113000 +0000" stop="20241101140000 +0000" channel="Indosiar.id"><title lang="id">Liga 1</title></programme>
-<programme start="20241101140000 +0000" stop="20241101160000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia</title></programme>
-<programme start="20241101160000 +0000" stop="20241101180000 +0000" channel="Indosiar.id"><title lang="id">The Shaolin 2</title></programme>
+<programme start="20241101140000 +0000" stop="20241101160000 +0000" channel="Indosiar.id"><title lang="id">Mega Film Asia : Big Brother</title></programme>
+<programme start="20241101160000 +0000" stop="20241101180000 +0000" channel="Indosiar.id"><title lang="id">Mega Series Action Asia : The Shaolin 2 - Eps 23 &amp; 24</title></programme>
 <programme start="20241030230000 +0000" stop="20241031000000 +0000" channel="JakTV.id"><title lang="id">Berdoa Yuk</title></programme>
 <programme start="20241031000000 +0000" stop="20241031003000 +0000" channel="JakTV.id"><title lang="id">Kiddie World</title></programme>
 <programme start="20241031003000 +0000" stop="20241031010000 +0000" channel="JakTV.id"><title lang="id">Animal Action</title></programme>
@@ -2433,11 +2428,10 @@
 <programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="Moji.id"><title lang="id">Bisik Pagi</title></programme>
 <programme start="20241031040000 +0000" stop="20241031061000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
 <programme start="20241031061000 +0000" stop="20241031063000 +0000" channel="Moji.id"><title lang="id">Netizen Update</title></programme>
-<programme start="20241031063000 +0000" stop="20241031090000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
-<programme start="20241031090000 +0000" stop="20241031113000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
-<programme start="20241031113000 +0000" stop="20241031140000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
-<programme start="20241031140000 +0000" stop="20241031153000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
-<programme start="20241031153000 +0000" stop="20241031170000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
+<programme start="20241031063000 +0000" stop="20241031100000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
+<programme start="20241031100000 +0000" stop="20241031130000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
+<programme start="20241031130000 +0000" stop="20241031160000 +0000" channel="Moji.id"><title lang="id">Livoli Divisi Utama Putra</title></programme>
+<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="Moji.id"><title lang="id">The Sultan Entertainment</title></programme>
 <programme start="20241031170000 +0000" stop="20241031183000 +0000" channel="Moji.id"><title lang="id">Ungkap</title></programme>
 <programme start="20241031183000 +0000" stop="20241031203000 +0000" channel="Moji.id"><title lang="id">Movie</title></programme>
 <programme start="20241031203000 +0000" stop="20241031220000 +0000" channel="Moji.id"><title lang="id">Kapolri Cup : Volleyball</title></programme>
@@ -2525,9 +2519,9 @@
 <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="NET.id"><title lang="id">AADD (ADA APA DENGAN DUNIA)</title></programme>
 <programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="NET.id"><title lang="id">Main Hakim Sendiri</title></programme>
 <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
-<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="NET.id"><title lang="id">KEAJAIBAN DUNIA</title></programme>
-<programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
-<programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="NET.id"><title lang="id">One Championship Warrior</title></programme>
+<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="NET.id"><title lang="id">Keajaiban Dunia</title></programme>
+<programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="NET.id"><title lang="id">One Championship Warrior</title></programme>
+<programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="NET.id"><title lang="id">Jurnal UFC</title></programme>
 <programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="NET.id"><title lang="id">Alkisah</title></programme>
 <programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="NET.id"><title lang="id">86</title></programme>
 <programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="NET.id"><title lang="id">Di Balik Mitos</title></programme>
@@ -2537,16 +2531,17 @@
 <programme start="20241101013000 +0000" stop="20241101030000 +0000" channel="NET.id"><title lang="id">Makan Enak</title></programme>
 <programme start="20241101030000 +0000" stop="20241101043000 +0000" channel="NET.id"><title lang="id">THE PENTHOUSE 3</title></programme>
 <programme start="20241101043000 +0000" stop="20241101053000 +0000" channel="NET.id"><title lang="id">Net Asia: Prime Minister and I</title></programme>
-<programme start="20241101053000 +0000" stop="20241101053100 +0000" channel="NET.id"><title lang="id">Toktok Net</title></programme>
+<programme start="20241101053000 +0000" stop="20241101053100 +0000" channel="NET.id"><title lang="id">Tok Tok NET</title></programme>
 <programme start="20241101053100 +0000" stop="20241101063000 +0000" channel="NET.id"><title lang="id">Kuliner Viral</title></programme>
 <programme start="20241101063000 +0000" stop="20241101073000 +0000" channel="NET.id"><title lang="id">Makandunia</title></programme>
 <programme start="20241101073000 +0000" stop="20241101093000 +0000" channel="NET.id"><title lang="id">Detective Conan</title></programme>
 <programme start="20241101093000 +0000" stop="20241101113000 +0000" channel="NET.id"><title lang="id">Shinbi&apos;s House</title></programme>
-<programme start="20241101113000 +0000" stop="20241101113100 +0000" channel="NET.id"><title lang="id">Toktok Net</title></programme>
+<programme start="20241101113000 +0000" stop="20241101113100 +0000" channel="NET.id"><title lang="id">Tok Tok NET</title></programme>
 <programme start="20241101113100 +0000" stop="20241101130000 +0000" channel="NET.id"><title lang="id">Top Spot</title></programme>
 <programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="NET.id"><title lang="id">Aadd (Ada Apa Dengan Dunia)</title></programme>
 <programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="NET.id"><title lang="id">Main Hakim Sendiri</title></programme>
 <programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="NET.id"><title lang="id">Jatanras</title></programme>
+<programme start="20241101160000 +0000" stop="20241101180000 +0000" channel="NET.id"><title lang="id">UFC Fight Night</title></programme>
 <programme start="20241030170000 +0000" stop="20241030171500 +0000" channel="NHKWorldJapan.jp"><title lang="id">NHK Newsline</title></programme>
 <programme start="20241030171500 +0000" stop="20241030173000 +0000" channel="NHKWorldJapan.jp"><title lang="id">Newsline in Depth</title></programme>
 <programme start="20241030173000 +0000" stop="20241030174500 +0000" channel="NHKWorldJapan.jp"><title lang="id">Mythical Flavours of Fermentation : Ekiben Japan</title></programme>
@@ -2949,25 +2944,25 @@
 <programme start="20241031111500 +0000" stop="20241031130000 +0000" channel="SCTV.id"><title lang="id">Saleha</title></programme>
 <programme start="20241031130000 +0000" stop="20241031143000 +0000" channel="SCTV.id"><title lang="id">Naik Ranjang</title></programme>
 <programme start="20241031143000 +0000" stop="20241031160000 +0000" channel="SCTV.id"><title lang="id">Luka Cinta</title></programme>
-<programme start="20241031160000 +0000" stop="20241031174500 +0000" channel="SCTV.id"><title lang="id">Pernikahan Penuh Dusta : JERITAN HATI</title></programme>
-<programme start="20241031174500 +0000" stop="20241031184500 +0000" channel="SCTV.id"><title lang="id">Welcome To Hati Neng Galon</title></programme>
+<programme start="20241031160000 +0000" stop="20241031173000 +0000" channel="SCTV.id"><title lang="id">Jeritan Hati : Pernikahan Penuh Dusta</title></programme>
+<programme start="20241031173000 +0000" stop="20241031184500 +0000" channel="SCTV.id"><title lang="id">FTV Utama : Naga Cinta Neng Geulis</title></programme>
 <programme start="20241031184500 +0000" stop="20241031191500 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Malam</title></programme>
 <programme start="20241031191500 +0000" stop="20241031194500 +0000" channel="SCTV.id"><title lang="id">Buser</title></programme>
 <programme start="20241031194500 +0000" stop="20241031210000 +0000" channel="SCTV.id"><title lang="id">Sinema Dini Hari : Cintaku Membawamu Ke Bali</title></programme>
 <programme start="20241031210000 +0000" stop="20241031213000 +0000" channel="SCTV.id"><title lang="id">Barakallah</title></programme>
 <programme start="20241031213000 +0000" stop="20241031230000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Pagi</title></programme>
 <programme start="20241031230000 +0000" stop="20241101000000 +0000" channel="SCTV.id"><title lang="id">Halo Selebriti</title></programme>
-<programme start="20241101000000 +0000" stop="20241101013000 +0000" channel="SCTV.id"><title lang="id">Gaspol (Games Asyik Bikin Nampol)</title></programme>
+<programme start="20241101000000 +0000" stop="20241101013000 +0000" channel="SCTV.id"><title lang="id">GASPOL (Games Asyik Bikin Nampol)</title></programme>
 <programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="SCTV.id"><title lang="id">FTV Pagi Spesial: Ketoprak Rindu Sang Milyarder</title></programme>
 <programme start="20241101023000 +0000" stop="20241101030000 +0000" channel="SCTV.id"><title lang="id">Indonesian Simple</title></programme>
-<programme start="20241101030000 +0000" stop="20241101050000 +0000" channel="SCTV.id"><title lang="id">SCTV FTV Pagi : Tanpa Kamu, Warga Indonesia Kurang Satu</title></programme>
+<programme start="20241101030000 +0000" stop="20241101050000 +0000" channel="SCTV.id"><title lang="id">FTV Pagi : Tanpa Kamu, Warga Indonesia Kurang Satu</title></programme>
 <programme start="20241101050000 +0000" stop="20241101053000 +0000" channel="SCTV.id"><title lang="id">Liputan 6 Siang</title></programme>
-<programme start="20241101053000 +0000" stop="20241101064500 +0000" channel="SCTV.id"><title lang="id">FTV Siang: Cintaku Divermak Jelita</title></programme>
-<programme start="20241101071500 +0000" stop="20241101110000 +0000" channel="SCTV.id"><title lang="id">Turnamen Olahraga Selebriti Indonesia</title></programme>
+<programme start="20241101053000 +0000" stop="20241101063000 +0000" channel="SCTV.id"><title lang="id">FTV Siang: Cintaku Divermak Jelita</title></programme>
+<programme start="20241101063000 +0000" stop="20241101110000 +0000" channel="SCTV.id"><title lang="id">Turnamen Olahraga Selebriti Indonesia Season 3</title></programme>
 <programme start="20241101110000 +0000" stop="20241101130000 +0000" channel="SCTV.id"><title lang="id">Saleha</title></programme>
 <programme start="20241101130000 +0000" stop="20241101143000 +0000" channel="SCTV.id"><title lang="id">Naik Ranjang</title></programme>
 <programme start="20241101143000 +0000" stop="20241101160000 +0000" channel="SCTV.id"><title lang="id">Luka Cinta</title></programme>
-<programme start="20241101160000 +0000" stop="20241101180000 +0000" channel="SCTV.id"><title lang="id">Istri Drama Ibu Teraniaya : JERITAN HATI</title></programme>
+<programme start="20241101160000 +0000" stop="20241101173000 +0000" channel="SCTV.id"><title lang="id">Jeritan Hati : Jangan Ambil Bayiku</title></programme>
 <programme start="20241030170000 +0000" stop="20241030173000 +0000" channel="SEAToday.id"><title lang="id">Reality Trip</title></programme>
 <programme start="20241030173000 +0000" stop="20241030180000 +0000" channel="SEAToday.id"><title lang="id">The World From Above</title></programme>
 <programme start="20241030180000 +0000" stop="20241030183000 +0000" channel="SEAToday.id"><title lang="id">Hopeful Earth</title></programme>
@@ -3079,7 +3074,7 @@
 <programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="SPOTV2.id"><title lang="id">SailGP: Racing on the Edge</title></programme>
 <programme start="20241031150000 +0000" stop="20241031153000 +0000" channel="SPOTV2.id"><title lang="id">Hyundai Archery World Cup Tlaxcala 2024 Recurve Final</title></programme>
 <programme start="20241031153000 +0000" stop="20241031174500 +0000" channel="SPOTV2.id"><title lang="id">2024 S-Oil Seven GTOUR Mixed Cup Stage1, FR : Golf</title></programme>
-<programme start="20241031174500 +0000" stop="20241031200000 +0000" channel="SPOTV2.id"><title lang="id">Al Ittihad vs Al Ahli - ROSHN Saudi League</title></programme>
+<programme start="20241031174500 +0000" stop="20241031200000 +0000" channel="SPOTV2.id"><title lang="id">Al Ittihad vs Al Ahli - ROSHN Saudi League 2024/25</title></programme>
 <programme start="20241031200000 +0000" stop="20241101000000 +0000" channel="SPOTV2.id"><title lang="id">WTT Champions Montpellier, Day 4: Night Session : Table Tennis</title></programme>
 <programme start="20241101000000 +0000" stop="20241101005500 +0000" channel="SPOTV2.id"><title lang="id">Lake Las Vegas : T100 Triathlon World Tour</title></programme>
 <programme start="20241101005500 +0000" stop="20241101015500 +0000" channel="SPOTV2.id"><title lang="id">Moto3 Free Practice: MotoGP 2024 Round 19 - PETRONAS Grand Prix of Malaysia</title></programme>
@@ -3227,15 +3222,16 @@
 <programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
 <programme start="20241031090000 +0000" stop="20241031093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
 <programme start="20241031093000 +0000" stop="20241031103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
-<programme start="20241031103000 +0000" stop="20241031113000 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
-<programme start="20241031113000 +0000" stop="20241031123000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
-<programme start="20241031123000 +0000" stop="20241031143000 +0000" channel="TransTV.id"><title lang="id">Film Indonesia Spesial</title></programme>
-<programme start="20241031143000 +0000" stop="20241031163000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV</title></programme>
-<programme start="20241031183000 +0000" stop="20241031193000 +0000" channel="TransTV.id"><title lang="id">CNN Connected</title></programme>
-<programme start="20241031193000 +0000" stop="20241031201000 +0000" channel="TransTV.id"><title lang="id">Klinik Tendean</title></programme>
-<programme start="20241031201000 +0000" stop="20241031205000 +0000" channel="TransTV.id"><title lang="id">Adam Inul Love Story</title></programme>
-<programme start="20241031205000 +0000" stop="20241031212000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Prime News</title></programme>
-<programme start="20241031212000 +0000" stop="20241031214000 +0000" channel="TransTV.id"><title lang="id">Indonesia Punya Cerita</title></programme>
+<programme start="20241031103000 +0000" stop="20241031114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
+<programme start="20241031114500 +0000" stop="20241031130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
+<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
+<programme start="20241031140000 +0000" stop="20241031160000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV : Blumhouse&apos;s Fantasy Island</title></programme>
+<programme start="20241031160000 +0000" stop="20241031180000 +0000" channel="TransTV.id"><title lang="id">Bioskop Trans TV : Countdown</title></programme>
+<programme start="20241031180000 +0000" stop="20241031191000 +0000" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere</title></programme>
+<programme start="20241031191000 +0000" stop="20241031202000 +0000" channel="TransTV.id"><title lang="id">Bioskop Indonesia Premiere</title></programme>
+<programme start="20241031202000 +0000" stop="20241031204000 +0000" channel="TransTV.id"><title lang="id">Pondok Pak Cus</title></programme>
+<programme start="20241031204000 +0000" stop="20241031212000 +0000" channel="TransTV.id"><title lang="id">SCBD - Semua Cinta Butuh Duit</title></programme>
+<programme start="20241031212000 +0000" stop="20241031214000 +0000" channel="TransTV.id"><title lang="id">Sketsa</title></programme>
 <programme start="20241031214000 +0000" stop="20241031220000 +0000" channel="TransTV.id"><title lang="id">Keluarga Sonfai</title></programme>
 <programme start="20241031220000 +0000" stop="20241031233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
 <programme start="20241031233000 +0000" stop="20241101003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
@@ -3455,8 +3451,9 @@
 <programme start="20241101040000 +0000" stop="20241101060000 +0000" channel="tvOne.id"><title lang="id">Kabar Siang</title></programme>
 <programme start="20241101060000 +0000" stop="20241101080000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Siang</title></programme>
 <programme start="20241101080000 +0000" stop="20241101090000 +0000" channel="tvOne.id"><title lang="id">Kabar Pemilukada</title></programme>
-<programme start="20241101090000 +0000" stop="20241101110000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
-<programme start="20241101110000 +0000" stop="20241101130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
+<programme start="20241101090000 +0000" stop="20241101100000 +0000" channel="tvOne.id"><title lang="id">Kabar Petang</title></programme>
+<programme start="20241101100000 +0000" stop="20241101120000 +0000" channel="tvOne.id"><title lang="id">Debat Calon Walikota dan Wakil Walikota Kota Jayapura</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="tvOne.id"><title lang="id">Apa Kabar Indonesia Malam</title></programme>
 <programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="tvOne.id"><title lang="id">One on One</title></programme>
 <programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="tvOne.id"><title lang="id">Kabar Utama 2</title></programme>
 <programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="tvOne.id"><title lang="id">Kabar Hari Ini</title></programme>
