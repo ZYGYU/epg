@@ -834,30 +834,6 @@
 <programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="CNBCIndonesia.id"><title lang="id">Managing Asia</title></programme>
 <programme start="20241031130000 +0000" stop="20241031150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
 <programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
-<programme start="20241030171500 +0000" stop="20241030174500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20241030174500 +0000" stop="20241030193000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20241030193000 +0000" stop="20241030204500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20241030204500 +0000" stop="20241030211500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
-<programme start="20241030211500 +0000" stop="20241030220000 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20241030220000 +0000" stop="20241030223000 +0000" channel="CNNIndonesia.id"><title lang="id">Gapai Kemuliaan</title></programme>
-<programme start="20241030223000 +0000" stop="20241030234500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20241030234500 +0000" stop="20241031003000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20241031003000 +0000" stop="20241031013000 +0000" channel="CNNIndonesia.id"><title lang="id">Good Morning</title></programme>
-<programme start="20241031013000 +0000" stop="20241031021500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Pagi</title></programme>
-<programme start="20241031021500 +0000" stop="20241031024500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia New Day</title></programme>
-<programme start="20241031024500 +0000" stop="20241031040000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
-<programme start="20241031040000 +0000" stop="20241031051500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
-<programme start="20241031051500 +0000" stop="20241031061500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Connected</title></programme>
-<programme start="20241031061500 +0000" stop="20241031071500 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Hour</title></programme>
-<programme start="20241031071500 +0000" stop="20241031081500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi</title></programme>
-<programme start="20241031081500 +0000" stop="20241031090000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Connected</title></programme>
-<programme start="20241031090000 +0000" stop="20241031093000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia News Update</title></programme>
-<programme start="20241031093000 +0000" stop="20241031113000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
-<programme start="20241031113000 +0000" stop="20241031130000 +0000" channel="CNNIndonesia.id"><title lang="id">Prime Plus</title></programme>
-<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="CNNIndonesia.id"><title lang="id">Pilihan Indonesia</title></programme>
-<programme start="20241031140000 +0000" stop="20241031150000 +0000" channel="CNNIndonesia.id"><title lang="id">The World Tonight</title></programme>
-<programme start="20241031150000 +0000" stop="20241031161500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime Plus</title></programme>
-<programme start="20241031161500 +0000" stop="20241031171500 +0000" channel="CNNIndonesia.id"><title lang="id">Pilihan Indonesia</title></programme>
 <programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="CNNInternationalAsiaPacific.hk"><title lang="id">One World</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="CNNInternationalAsiaPacific.hk"><title lang="id">One World</title></programme>
 <programme start="20241030172000 +0000" stop="20241030181500 +0000" channel="CrimePlusInvestigationAsia.sg"><title lang="id">60 Days In S8 - Eps. 7</title></programme>
@@ -2982,19 +2958,19 @@
 <programme start="20241030214000 +0000" stop="20241030220000 +0000" channel="TransTV.id"><title lang="id">Keluarga Sonfai</title></programme>
 <programme start="20241030220000 +0000" stop="20241030233000 +0000" channel="TransTV.id"><title lang="id">Islam Itu Indah</title></programme>
 <programme start="20241030233000 +0000" stop="20241031003000 +0000" channel="TransTV.id"><title lang="id">Insert Pagi</title></programme>
-<programme start="20241031003000 +0000" stop="20241031013000 +0000" channel="TransTV.id"><title lang="id">Cnn Indonesia Good Morning</title></programme>
+<programme start="20241031003000 +0000" stop="20241031013000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia Good Morning</title></programme>
 <programme start="20241031013000 +0000" stop="20241031033000 +0000" channel="TransTV.id"><title lang="id">Pagi-Pagi Ambyar</title></programme>
 <programme start="20241031033000 +0000" stop="20241031053000 +0000" channel="TransTV.id"><title lang="id">Insert</title></programme>
 <programme start="20241031053000 +0000" stop="20241031070000 +0000" channel="TransTV.id"><title lang="id">Brownis - Obrolan Manis</title></programme>
 <programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="TransTV.id"><title lang="id">Rumpi - No Secret</title></programme>
 <programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="TransTV.id"><title lang="id">Insert Today</title></programme>
-<programme start="20241031090000 +0000" stop="20241031093000 +0000" channel="TransTV.id"><title lang="id">Cnn Indonesia News Update</title></programme>
+<programme start="20241031090000 +0000" stop="20241031093000 +0000" channel="TransTV.id"><title lang="id">CNN Indonesia News Update</title></programme>
 <programme start="20241031093000 +0000" stop="20241031103000 +0000" channel="TransTV.id"><title lang="id">Dream Box Indonesia</title></programme>
 <programme start="20241031103000 +0000" stop="20241031114500 +0000" channel="TransTV.id"><title lang="id">Bikin Laper</title></programme>
 <programme start="20241031114500 +0000" stop="20241031130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
 <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
-<programme start="20241031140000 +0000" stop="20241031160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Assassin&apos;s Creed</title></programme>
-<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Jolt</title></programme>
+<programme start="20241031140000 +0000" stop="20241031160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Blumhouse&apos;s Fantasy Island</title></programme>
+<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Countdown</title></programme>
 <programme start="20241030183300 +0000" stop="20241030190000 +0000" channel="TV5MondeAsia.fr"><title lang="id">Femmes De L&apos;Art</title></programme>
 <programme start="20241030190000 +0000" stop="20241030192300 +0000" channel="TV5MondeAsia.fr"><title lang="id">64&apos; Le Monde En Francais - 1Re Partie</title></programme>
 <programme start="20241030192300 +0000" stop="20241030194600 +0000" channel="TV5MondeAsia.fr"><title lang="id">64&apos; Le Monde En Francais - 2E Partie</title></programme>
