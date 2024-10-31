@@ -422,22 +422,6 @@
 <programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="AsianFoodNetwork.sg"><title lang="id">French Gourmet with Justine Schofield S1 - Eps. 4</title></programme>
 <programme start="20241031150000 +0000" stop="20241031153000 +0000" channel="AsianFoodNetwork.sg"><title lang="id">Martin Yan&apos;s Asian Favorites S2 - Eps. 1</title></programme>
 <programme start="20241031153000 +0000" stop="20241031172000 +0000" channel="AsianFoodNetwork.sg"><title lang="id">Martin Yan&apos;s Asian Favorites S2 - Eps. 2</title></programme>
-<programme start="20241030170000 +0000" stop="20241030180000 +0000" channel="ATV.id"><title lang="id">Homeshopping Benvit</title></programme>
-<programme start="20241030180000 +0000" stop="20241030200000 +0000" channel="ATV.id"><title lang="id">Woochi</title></programme>
-<programme start="20241030200000 +0000" stop="20241030220000 +0000" channel="ATV.id"><title lang="id">Black Mask</title></programme>
-<programme start="20241030220000 +0000" stop="20241030230000 +0000" channel="ATV.id"><title lang="id">Homeshopping Gilmore</title></programme>
-<programme start="20241030230000 +0000" stop="20241031000000 +0000" channel="ATV.id"><title lang="id">Homeshopping Dr Hoom Backbone</title></programme>
-<programme start="20241031000000 +0000" stop="20241031020000 +0000" channel="ATV.id"><title lang="id">Project A</title></programme>
-<programme start="20241031020000 +0000" stop="20241031030000 +0000" channel="ATV.id"><title lang="id">Homeshopping Smart Keuken</title></programme>
-<programme start="20241031030000 +0000" stop="20241031040000 +0000" channel="ATV.id"><title lang="id">Homeshopping Dr Hoom Backbone</title></programme>
-<programme start="20241031040000 +0000" stop="20241031050000 +0000" channel="ATV.id"><title lang="id">Homeshopping Gilmore</title></programme>
-<programme start="20241031050000 +0000" stop="20241031070000 +0000" channel="ATV.id"><title lang="id">Tower Of Death</title></programme>
-<programme start="20241031070000 +0000" stop="20241031080000 +0000" channel="ATV.id"><title lang="id">Homeshopping Smart Keuken</title></programme>
-<programme start="20241031080000 +0000" stop="20241031090000 +0000" channel="ATV.id"><title lang="id">Homeshopping Gilmore</title></programme>
-<programme start="20241031090000 +0000" stop="20241031110000 +0000" channel="ATV.id"><title lang="id">Twinkle Twinkle Lucky Star</title></programme>
-<programme start="20241031110000 +0000" stop="20241031120000 +0000" channel="ATV.id"><title lang="id">Homeshopping Dr Hoom Backbone</title></programme>
-<programme start="20241031120000 +0000" stop="20241031130000 +0000" channel="ATV.id"><title lang="id">Homeshopping Smart Keuken</title></programme>
-<programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="ATV.id"><title lang="id">Homeshopping Gilmore</title></programme>
 <programme start="20241031140000 +0000" stop="20241031160000 +0000" channel="ATV.id"><title lang="id">Woochi</title></programme>
 <programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="ATV.id"><title lang="id">Homeshopping Benvit</title></programme>
 <programme start="20241030172500 +0000" stop="20241030182000 +0000" channel="AXN.id"><title lang="id">Hudson and Rex Season 4 - Eps. 7</title></programme>
@@ -814,26 +798,35 @@
 <programme start="20241031160300 +0000" stop="20241031170000 +0000" channel="CNA.sg"><title lang="id">East Asia Tonight</title></programme>
 <programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="CNBCAsia.sg"><title lang="id">Us Halftime Report</title></programme>
 <programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="CNBCAsia.sg"><title lang="id">Us Halftime Report</title></programme>
-<programme start="20241030170000 +0000" stop="20241030190000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
-<programme start="20241030190000 +0000" stop="20241030210000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
-<programme start="20241030210000 +0000" stop="20241030213000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20241030213000 +0000" stop="20241030223000 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
-<programme start="20241030223000 +0000" stop="20241030230000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
-<programme start="20241030230000 +0000" stop="20241030233000 +0000" channel="CNBCIndonesia.id"><title lang="id">Managing Asia</title></programme>
-<programme start="20241030233000 +0000" stop="20241031003000 +0000" channel="CNBCIndonesia.id"><title lang="id">Property Point</title></programme>
-<programme start="20241031003000 +0000" stop="20241031010000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20241031010000 +0000" stop="20241031030000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box - Live</title></programme>
-<programme start="20241031030000 +0000" stop="20241031045500 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit - Live</title></programme>
-<programme start="20241031045500 +0000" stop="20241031070000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch - Live</title></programme>
-<programme start="20241031070000 +0000" stop="20241031073000 +0000" channel="CNBCIndonesia.id"><title lang="id">Managing Asia</title></programme>
-<programme start="20241031073000 +0000" stop="20241031080000 +0000" channel="CNBCIndonesia.id"><title lang="id">Focus On Infra</title></programme>
-<programme start="20241031080000 +0000" stop="20241031100000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell - Live</title></programme>
-<programme start="20241031100000 +0000" stop="20241031110500 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up - Live</title></programme>
-<programme start="20241031110500 +0000" stop="20241031120000 +0000" channel="CNBCIndonesia.id"><title lang="id">Nation Hub - Live</title></programme>
-<programme start="20241031120000 +0000" stop="20241031123000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
-<programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="CNBCIndonesia.id"><title lang="id">Managing Asia</title></programme>
-<programme start="20241031130000 +0000" stop="20241031150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
-<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
+<programme start="20241030170000 +0000" stop="20241030183000 +0000" channel="CNBCIndonesia.id"><title lang="id">UOB Economic Outlook 2025</title></programme>
+<programme start="20241030183000 +0000" stop="20241030193000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
+<programme start="20241030193000 +0000" stop="20241030200000 +0000" channel="CNBCIndonesia.id"><title lang="id">Money Talks</title></programme>
+<programme start="20241030200000 +0000" stop="20241030220000 +0000" channel="CNBCIndonesia.id"><title lang="id">Road To CNBC Indonesia Awards 2024</title></programme>
+<programme start="20241030220000 +0000" stop="20241030230000 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
+<programme start="20241030230000 +0000" stop="20241030233000 +0000" channel="CNBCIndonesia.id"><title lang="id">Autobizz</title></programme>
+<programme start="20241030233000 +0000" stop="20241031000000 +0000" channel="CNBCIndonesia.id"><title lang="id">Investime Pilihan</title></programme>
+<programme start="20241031000000 +0000" stop="20241031003000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
+<programme start="20241031003000 +0000" stop="20241031010000 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
+<programme start="20241031010000 +0000" stop="20241031013000 +0000" channel="CNBCIndonesia.id"><title lang="id">Investime</title></programme>
+<programme start="20241031013000 +0000" stop="20241031030000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
+<programme start="20241031030000 +0000" stop="20241031043000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
+<programme start="20241031043000 +0000" stop="20241031050000 +0000" channel="CNBCIndonesia.id"><title lang="id">Property Point</title></programme>
+<programme start="20241031050000 +0000" stop="20241031070000 +0000" channel="CNBCIndonesia.id"><title lang="id">Autobizz</title></programme>
+<programme start="20241031070000 +0000" stop="20241031090000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20241031090000 +0000" stop="20241031093000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20241031093000 +0000" stop="20241031100000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
+<programme start="20241031100000 +0000" stop="20241031110000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
+<programme start="20241031110000 +0000" stop="20241031113000 +0000" channel="CNBCIndonesia.id"><title lang="id">Profit</title></programme>
+<programme start="20241031113000 +0000" stop="20241031120000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Indonesia Exclusive</title></programme>
+<programme start="20241031120000 +0000" stop="20241031123000 +0000" channel="CNBCIndonesia.id"><title lang="id">Power Lunch</title></programme>
+<programme start="20241031123000 +0000" stop="20241031130000 +0000" channel="CNBCIndonesia.id"><title lang="id">CNBC Conversation</title></programme>
+<programme start="20241031130000 +0000" stop="20241031133000 +0000" channel="CNBCIndonesia.id"><title lang="id">Big Stories Of The Week</title></programme>
+<programme start="20241031133000 +0000" stop="20241031140000 +0000" channel="CNBCIndonesia.id"><title lang="id">Closing Bell</title></programme>
+<programme start="20241031140000 +0000" stop="20241031143000 +0000" channel="CNBCIndonesia.id"><title lang="id">Evening Up</title></programme>
+<programme start="20241031143000 +0000" stop="20241031150000 +0000" channel="CNBCIndonesia.id"><title lang="id">Investime</title></programme>
+<programme start="20241031150000 +0000" stop="20241031160000 +0000" channel="CNBCIndonesia.id"><title lang="id">Cuap Cuap Cuan</title></programme>
+<programme start="20241031160000 +0000" stop="20241031163000 +0000" channel="CNBCIndonesia.id"><title lang="id">Mining Zone</title></programme>
+<programme start="20241031163000 +0000" stop="20241031170000 +0000" channel="CNBCIndonesia.id"><title lang="id">Squawk Box</title></programme>
 <programme start="20241030171500 +0000" stop="20241030174500 +0000" channel="CNNIndonesia.id"><title lang="id">Redaksi Malam</title></programme>
 <programme start="20241030174500 +0000" stop="20241030193000 +0000" channel="CNNIndonesia.id"><title lang="id">CNN Indonesia Newsroom</title></programme>
 <programme start="20241030193000 +0000" stop="20241030204500 +0000" channel="CNNIndonesia.id"><title lang="id">Prime News</title></programme>
@@ -2994,7 +2987,7 @@
 <programme start="20241031114500 +0000" stop="20241031130000 +0000" channel="TransTV.id"><title lang="id">Insert Story</title></programme>
 <programme start="20241031130000 +0000" stop="20241031140000 +0000" channel="TransTV.id"><title lang="id">Dunia Punya Cerita</title></programme>
 <programme start="20241031140000 +0000" stop="20241031160000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Blumhouse&apos;s Fantasy Island</title></programme>
-<programme start="20241031160000 +0000" stop="20241031170000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Countdown</title></programme>
+<programme start="20241031160000 +0000" stop="20241031180000 +0000" channel="TransTV.id"><title lang="id">Bioskop TransTV - Countdown</title></programme>
 <programme start="20241030183300 +0000" stop="20241030190000 +0000" channel="TV5MondeAsia.fr"><title lang="id">Femmes De L&apos;Art</title></programme>
 <programme start="20241030190000 +0000" stop="20241030192300 +0000" channel="TV5MondeAsia.fr"><title lang="id">64&apos; Le Monde En Francais - 1Re Partie</title></programme>
 <programme start="20241030192300 +0000" stop="20241030194600 +0000" channel="TV5MondeAsia.fr"><title lang="id">64&apos; Le Monde En Francais - 2E Partie</title></programme>
