@@ -135,36 +135,30 @@
 <channel id="WarnerTVAsia.us"><display-name>Warner TV Asia</display-name><url>https://indihometv.com</url></channel>
 <channel id="ZeeBioskop.id"><display-name>Zee Bioskop</display-name><url>https://indihometv.com</url></channel>
 <channel id="ZhejiangSatelliteTV.cn"><display-name>Zhejiang Satellite TV</display-name><url>https://indihometv.com</url></channel>
-<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="ABCAustralia.au"><title lang="id">Back Roads</title></programme>
-<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="ABCAustralia.au"><title lang="id">7.30</title></programme>
-<programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241031190000 +0000" stop="20241031220000 +0000" channel="ABCAustralia.au"><title lang="id">News Breakfast</title></programme>
-<programme start="20241031220000 +0000" stop="20241101010000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News Mornings</title></programme>
-<programme start="20241101010000 +0000" stop="20241101020000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News At Noon</title></programme>
-<programme start="20241101020000 +0000" stop="20241101025500 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20241101025500 +0000" stop="20241101030000 +0000" channel="ABCAustralia.au"><title lang="id">Beyond Awesome</title></programme>
-<programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="ABCAustralia.au"><title lang="id">Mystery Road : Origin</title></programme>
-<programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="ABCAustralia.au"><title lang="id">The Pacific</title></programme>
-<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="ABCAustralia.au"><title lang="id">That Pacific Sports Show</title></programme>
-<programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="ABCAustralia.au"><title lang="id">Afternoon Briefing</title></programme>
-<programme start="20241101060000 +0000" stop="20241101070000 +0000" channel="ABCAustralia.au"><title lang="id">ABC News with Joe O&apos;Brien</title></programme>
-<programme start="20241101070000 +0000" stop="20241101080000 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20241101080000 +0000" stop="20241101083500 +0000" channel="ABCAustralia.au"><title lang="id">ABC National News</title></programme>
-<programme start="20241101083500 +0000" stop="20241101093000 +0000" channel="ABCAustralia.au"><title lang="id">Going Places with Ernie Dingo</title></programme>
-<programme start="20241101093000 +0000" stop="20241101095500 +0000" channel="ABCAustralia.au"><title lang="id">Larapinta</title></programme>
-<programme start="20241101095500 +0000" stop="20241101100000 +0000" channel="ABCAustralia.au"><title lang="id">Beyond Awesome</title></programme>
-<programme start="20241101100000 +0000" stop="20241101103000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="ABCAustralia.au"><title lang="id">The World This Week</title></programme>
-<programme start="20241101110000 +0000" stop="20241101113000 +0000" channel="ABCAustralia.au"><title lang="id">Close of Business</title></programme>
-<programme start="20241101113000 +0000" stop="20241101122500 +0000" channel="ABCAustralia.au"><title lang="id">Mystery Road : Origin</title></programme>
-<programme start="20241101122500 +0000" stop="20241101131500 +0000" channel="ABCAustralia.au"><title lang="id">Planet America : Fireside Chat</title></programme>
-<programme start="20241101131500 +0000" stop="20241101133000 +0000" channel="ABCAustralia.au"><title lang="id">ABC Late News</title></programme>
-<programme start="20241101133000 +0000" stop="20241101140000 +0000" channel="ABCAustralia.au"><title lang="id">Asia News Week</title></programme>
-<programme start="20241101140000 +0000" stop="20241101143000 +0000" channel="ABCAustralia.au"><title lang="id">Close of Business</title></programme>
-<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="ABCAustralia.au"><title lang="id">The World</title></programme>
-<programme start="20241101150000 +0000" stop="20241101153000 +0000" channel="ABCAustralia.au"><title lang="id">The World This Week</title></programme>
-<programme start="20241101153000 +0000" stop="20241101162500 +0000" channel="ABCAustralia.au"><title lang="id">Gardening Australia</title></programme>
-<programme start="20241101162500 +0000" stop="20241101172500 +0000" channel="ABCAustralia.au"><title lang="id">Mystery Road : Origin</title></programme>
+<programme start="20241031173000 +0000" stop="20241031190000 +0000" channel="ABCAustralia.au"><title lang="id">World Cup 2026 Qualifiers Afc</title></programme>
+<programme start="20241031190000 +0000" stop="20241031200000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Sore</title></programme>
+<programme start="20241031200000 +0000" stop="20241031210000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Malam</title></programme>
+<programme start="20241031210000 +0000" stop="20241031211800 +0000" channel="ABCAustralia.au"><title lang="id">Realita</title></programme>
+<programme start="20241031211800 +0000" stop="20241031212000 +0000" channel="ABCAustralia.au"><title lang="id">Indonesia Raya</title></programme>
+<programme start="20241031212000 +0000" stop="20241031230000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Pagi</title></programme>
+<programme start="20241031230000 +0000" stop="20241101000000 +0000" channel="ABCAustralia.au"><title lang="id">Special Report</title></programme>
+<programme start="20241101000000 +0000" stop="20241101010000 +0000" channel="ABCAustralia.au"><title lang="id">Morning Update</title></programme>
+<programme start="20241101010000 +0000" stop="20241101013000 +0000" channel="ABCAustralia.au"><title lang="id">Omg</title></programme>
+<programme start="20241101013000 +0000" stop="20241101023000 +0000" channel="ABCAustralia.au"><title lang="id">Lapor Polisi</title></programme>
+<programme start="20241101023000 +0000" stop="20241101040000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Today</title></programme>
+<programme start="20241101040000 +0000" stop="20241101053000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Siang</title></programme>
+<programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="ABCAustralia.au"><title lang="id">Kawal Pilkada</title></programme>
+<programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="ABCAustralia.au"><title lang="id">Silet</title></programme>
+<programme start="20241101063000 +0000" stop="20241101073000 +0000" channel="ABCAustralia.au"><title lang="id">Intens Reborn</title></programme>
+<programme start="20241101073000 +0000" stop="20241101083000 +0000" channel="ABCAustralia.au"><title lang="id">I Seleb</title></programme>
+<programme start="20241101083000 +0000" stop="20241101100000 +0000" channel="ABCAustralia.au"><title lang="id">Realita</title></programme>
+<programme start="20241101100000 +0000" stop="20241101120000 +0000" channel="ABCAustralia.au"><title lang="id">Debat Publik Provinsi Papua Selatan</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="ABCAustralia.au"><title lang="id">Debat Publik Provinsi Papua Selatan</title></programme>
+<programme start="20241101130000 +0000" stop="20241101140000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Files</title></programme>
+<programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Prime</title></programme>
+<programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="ABCAustralia.au"><title lang="id">Inews Malam</title></programme>
+<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="ABCAustralia.au"><title lang="id">New Top Files</title></programme>
+<programme start="20241101163000 +0000" stop="20241101173000 +0000" channel="ABCAustralia.au"><title lang="id">Realita</title></programme>
 <programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="AlJazeera.qa"><title lang="id">News Live</title></programme>
 <programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="AlJazeera.qa"><title lang="id">Inside Story - Eps. 785</title></programme>
 <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="AlJazeera.qa"><title lang="id">Newshour</title></programme>
@@ -606,10 +600,21 @@
 <programme start="20241101123000 +0000" stop="20241101140000 +0000" channel="BioskopIndonesia.id"><title lang="id">Pacarku Pelupa</title></programme>
 <programme start="20241101140000 +0000" stop="20241101153000 +0000" channel="BioskopIndonesia.id"><title lang="id">Antara Kau, Aku Dan Papaku</title></programme>
 <programme start="20241101153000 +0000" stop="20241101170000 +0000" channel="BioskopIndonesia.id"><title lang="id">Cinta Numpang Lewat</title></programme>
-<programme start="20241031170000 +0000" stop="20241031180000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: Balance of Power</title></programme>
-<programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg BusinessWeek</title></programme>
-<programme start="20241031190000 +0000" stop="20241031210000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg The Close</title></programme>
-<programme start="20241031210000 +0000" stop="20241031220000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: Balance of Power</title></programme>
+<programme start="20241031220000 +0000" stop="20241031223000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Technology</title></programme>
+<programme start="20241031223000 +0000" stop="20241031230000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Screentime: Defining the Next Phase of Pop Culture</title></programme>
+<programme start="20241031230000 +0000" stop="20241101010000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg The Asia Trade</title></programme>
+<programme start="20241101010000 +0000" stop="20241101030000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: The China Show</title></programme>
+<programme start="20241101030000 +0000" stop="20241101040000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Insight with Haslinda Amin</title></programme>
+<programme start="20241101040000 +0000" stop="20241101053000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Horizons Middle East &amp; Africa</title></programme>
+<programme start="20241101053000 +0000" stop="20241101060000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Africa Amplified</title></programme>
+<programme start="20241101060000 +0000" stop="20241101070000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Daybreak: Europe</title></programme>
+<programme start="20241101070000 +0000" stop="20241101090000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg: The Opening Trade</title></programme>
+<programme start="20241101090000 +0000" stop="20241101100000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Brief</title></programme>
+<programme start="20241101100000 +0000" stop="20241101130000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Surveillance</title></programme>
+<programme start="20241101130000 +0000" stop="20241101150000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Open Interest</title></programme>
+<programme start="20241101150000 +0000" stop="20241101160000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Technology</title></programme>
+<programme start="20241101160000 +0000" stop="20241101163000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Real Yield</title></programme>
+<programme start="20241101163000 +0000" stop="20241101170000 +0000" channel="BloombergTVAsia.hk"><title lang="id">Bloomberg Markets</title></programme>
 <programme start="20241031170000 +0000" stop="20241031170300 +0000" channel="BTV.id"><title lang="id">Lagu Tanah Airku</title></programme>
 <programme start="20241031170300 +0000" stop="20241031180000 +0000" channel="BTV.id"><title lang="id">Delta</title></programme>
 <programme start="20241031180000 +0000" stop="20241031190000 +0000" channel="BTV.id"><title lang="id">Berita Satu Siang</title></programme>
@@ -2339,7 +2344,7 @@
 <programme start="20241101030300 +0000" stop="20241101033000 +0000" channel="JTV.id"><title lang="id">Pojok Arena</title></programme>
 <programme start="20241101033000 +0000" stop="20241101040000 +0000" channel="JTV.id"><title lang="id">Jatim Awan</title></programme>
 <programme start="20241101040000 +0000" stop="20241101043000 +0000" channel="JTV.id"><title lang="id">Belajar Baik</title></programme>
-<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="JTV.id"><title lang="id">Penting Gak Penting</title></programme>
+<programme start="20241101043000 +0000" stop="20241101050000 +0000" channel="JTV.id"><title lang="id">Mancing Mbois</title></programme>
 <programme start="20241101050000 +0000" stop="20241101060000 +0000" channel="JTV.id"><title lang="id">Stasiun Dangdut</title></programme>
 <programme start="20241101060000 +0000" stop="20241101063000 +0000" channel="JTV.id"><title lang="id">Nusantara Kini</title></programme>
 <programme start="20241101063000 +0000" stop="20241101065700 +0000" channel="JTV.id"><title lang="id">Berita Gress</title></programme>
@@ -2353,10 +2358,10 @@
 <programme start="20241101103000 +0000" stop="20241101110000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Bio 99</title></programme>
 <programme start="20241101110000 +0000" stop="20241101110500 +0000" channel="JTV.id"><title lang="id">Kuis Tul Jaenak</title></programme>
 <programme start="20241101110500 +0000" stop="20241101120000 +0000" channel="JTV.id"><title lang="id">Gak Cuma Cangkruan</title></programme>
-<programme start="20241101120000 +0000" stop="20241101122500 +0000" channel="JTV.id"><title lang="id">Pojok Pitu</title></programme>
-<programme start="20241101122500 +0000" stop="20241101123000 +0000" channel="JTV.id"><title lang="id">Kuis Tul Jaenak</title></programme>
-<programme start="20241101123000 +0000" stop="20241101143000 +0000" channel="JTV.id"><title lang="id">Debat Publik Pilkada Kab. Bangkalan</title></programme>
-<programme start="20241101143000 +0000" stop="20241101150000 +0000" channel="JTV.id"><title lang="id">Pojok Kampung</title></programme>
+<programme start="20241101120000 +0000" stop="20241101130000 +0000" channel="JTV.id"><title lang="id">Pojok Pitu</title></programme>
+<programme start="20241101130000 +0000" stop="20241101130500 +0000" channel="JTV.id"><title lang="id">Kuis Tul Jaenak</title></programme>
+<programme start="20241101130500 +0000" stop="20241101140000 +0000" channel="JTV.id"><title lang="id">Solusi Bisnis</title></programme>
+<programme start="20241101140000 +0000" stop="20241101150000 +0000" channel="JTV.id"><title lang="id">Pojok Kampung</title></programme>
 <programme start="20241101150000 +0000" stop="20241101153000 +0000" channel="JTV.id"><title lang="id">Napak Tilas</title></programme>
 <programme start="20241101153000 +0000" stop="20241101160000 +0000" channel="JTV.id"><title lang="id">Program Kesehatan Kesatrian</title></programme>
 <programme start="20241101160000 +0000" stop="20241101170000 +0000" channel="JTV.id"><title lang="id">Ampun Dj</title></programme>
@@ -3899,6 +3904,44 @@
 <programme start="20241101145000 +0000" stop="20241101154500 +0000" channel="UseePrime.id"><title lang="id">Sehati Semati</title></programme>
 <programme start="20241101154500 +0000" stop="20241101160000 +0000" channel="UseePrime.id"><title lang="id">Indonesia Dalam 15 Menit</title></programme>
 <programme start="20241101160000 +0000" stop="20241101170000 +0000" channel="UseePrime.id"><title lang="id">Studio Dangdut Lebih Dekat</title></programme>
+<programme start="20241031170000 +0000" stop="20241031173000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps.5</title></programme>
+<programme start="20241031173000 +0000" stop="20241031180000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps.6</title></programme>
+<programme start="20241031180000 +0000" stop="20241031185000 +0000" channel="WarnerTVAsia.us"><title lang="id">East New York S1 - Eps.4</title></programme>
+<programme start="20241031185000 +0000" stop="20241031193500 +0000" channel="WarnerTVAsia.us"><title lang="id">Arrow S2 - Eps.17</title></programme>
+<programme start="20241031193500 +0000" stop="20241031202000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps.20</title></programme>
+<programme start="20241031202000 +0000" stop="20241031211000 +0000" channel="WarnerTVAsia.us"><title lang="id">Person Of Interest S4 - Eps.1</title></programme>
+<programme start="20241031211000 +0000" stop="20241031213500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S5 - Eps.13</title></programme>
+<programme start="20241031213500 +0000" stop="20241031220000 +0000" channel="WarnerTVAsia.us"><title lang="id">Container Wars S2 - Eps.4</title></programme>
+<programme start="20241031220000 +0000" stop="20241031222500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps. 7</title></programme>
+<programme start="20241031222500 +0000" stop="20241031225000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps. 8</title></programme>
+<programme start="20241031225000 +0000" stop="20241031234000 +0000" channel="WarnerTVAsia.us"><title lang="id">East New York S1 - Eps. 5</title></programme>
+<programme start="20241031234000 +0000" stop="20241101003000 +0000" channel="WarnerTVAsia.us"><title lang="id">Arrow S2 - Eps. 18</title></programme>
+<programme start="20241101003000 +0000" stop="20241101012000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 21</title></programme>
+<programme start="20241101012000 +0000" stop="20241101014500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps. 7</title></programme>
+<programme start="20241101014500 +0000" stop="20241101021000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps. 8</title></programme>
+<programme start="20241101021000 +0000" stop="20241101030000 +0000" channel="WarnerTVAsia.us"><title lang="id">Person Of Interest S4 - Eps. 2</title></programme>
+<programme start="20241101030000 +0000" stop="20241101032500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S6 - Eps. 14</title></programme>
+<programme start="20241101032500 +0000" stop="20241101035000 +0000" channel="WarnerTVAsia.us"><title lang="id">Container Wars S2 - Eps. 5</title></programme>
+<programme start="20241101035000 +0000" stop="20241101044000 +0000" channel="WarnerTVAsia.us"><title lang="id">Arrow S2 - Eps. 18</title></programme>
+<programme start="20241101044000 +0000" stop="20241101053000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 21</title></programme>
+<programme start="20241101053000 +0000" stop="20241101055500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S3 - Eps. 12</title></programme>
+<programme start="20241101055500 +0000" stop="20241101062000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S4 - Eps. 13</title></programme>
+<programme start="20241101062000 +0000" stop="20241101071000 +0000" channel="WarnerTVAsia.us"><title lang="id">East New York S1 - Eps. 5</title></programme>
+<programme start="20241101071000 +0000" stop="20241101080000 +0000" channel="WarnerTVAsia.us"><title lang="id">Person Of Interest S4 - Eps. 2</title></programme>
+<programme start="20241101080000 +0000" stop="20241101082500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps. 7</title></programme>
+<programme start="20241101082500 +0000" stop="20241101085000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Carbonaro Effect S1 - Eps. 8</title></programme>
+<programme start="20241101085000 +0000" stop="20241101094000 +0000" channel="WarnerTVAsia.us"><title lang="id">The Mentalist S5 - Eps. 21</title></programme>
+<programme start="20241101094000 +0000" stop="20241101103000 +0000" channel="WarnerTVAsia.us"><title lang="id">Arrow S2 - Eps. 18</title></programme>
+<programme start="20241101103000 +0000" stop="20241101112000 +0000" channel="WarnerTVAsia.us"><title lang="id">Person Of Interest S4 - Eps. 2</title></programme>
+<programme start="20241101112000 +0000" stop="20241101114500 +0000" channel="WarnerTVAsia.us"><title lang="id">The Big Bang Theory S3 - Eps. 12</title></programme>
+<programme start="20241101114500 +0000" stop="20241101121000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S4 - Eps. 13</title></programme>
+<programme start="20241101121000 +0000" stop="20241101123500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S6 - Eps. 14</title></programme>
+<programme start="20241101123500 +0000" stop="20241101130000 +0000" channel="WarnerTVAsia.us"><title lang="id">Container Wars S2 - Eps. 5</title></programme>
+<programme start="20241101130000 +0000" stop="20241101151000 +0000" channel="WarnerTVAsia.us"><title lang="id">Justice League (2017)</title></programme>
+<programme start="20241101151000 +0000" stop="20241101153000 +0000" channel="WarnerTVAsia.us"><title lang="id">Friends S4 - Eps. 13</title></programme>
+<programme start="20241101153000 +0000" stop="20241101162000 +0000" channel="WarnerTVAsia.us"><title lang="id">Person Of Interest S4 - Eps. 2</title></programme>
+<programme start="20241101162000 +0000" stop="20241101164500 +0000" channel="WarnerTVAsia.us"><title lang="id">Storage Hunters S6 - Eps. 14</title></programme>
+<programme start="20241101164500 +0000" stop="20241101171000 +0000" channel="WarnerTVAsia.us"><title lang="id">Container Wars S2 - Eps. 5</title></programme>
 <programme start="20241031193000 +0000" stop="20241031223000 +0000" channel="ZeeBioskop.id"><title lang="id">1920 London</title></programme>
 <programme start="20241031223000 +0000" stop="20241101013000 +0000" channel="ZeeBioskop.id"><title lang="id">Phone Bhoot</title></programme>
 <programme start="20241101013000 +0000" stop="20241101020000 +0000" channel="ZeeBioskop.id"><title lang="id">Song Fillers</title></programme>
