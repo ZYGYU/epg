@@ -24,7 +24,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for player.ee.co.uk
-        run: npm run grab -- --site=player.ee.co.uk --lang=en --output=channel/player.ee.co.uk.xml
+        run: npm run grab -- --site=player.ee.co.uk --lang=en --days=7 --output=channel/player.ee.co.uk.xml
 
       - name: Commit and Push EPG Output for player.ee.co.uk
         env:
@@ -54,7 +54,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for visionplus.id
-        run: npm run grab -- --site=visionplus.id --lang=en --output=channel/visionplus.id.xml
+        run: npm run grab -- --site=visionplus.id --lang=en --days=7 --output=channel/visionplus.id.xml
 
       - name: Commit and Push EPG Output for visionplus.id
         env:
@@ -84,7 +84,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for cubmu.com
-        run: npm run grab -- --site=cubmu.com --lang=id --output=channel/cubmu.com.xml
+        run: npm run grab -- --site=cubmu.com --lang=id --days=7 --output=channel/cubmu.com.xml
 
       - name: Commit and Push EPG Output for cubmu
         env:
@@ -114,7 +114,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for firstmedia.com
-        run: npm run grab -- --site=firstmedia.com --output=channel/firstmedia.com.xml
+        run: npm run grab -- --site=firstmedia.com --days=7 --output=channel/firstmedia.com.xml
 
       - name: Commit and Push EPG Output for firstmedia.com
         env:
@@ -145,7 +145,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for dens.tv
-        run: npm run grab -- --site=dens.tv --lang=id --output=channel/dens.tv.xml
+        run: npm run grab -- --site=dens.tv --lang=id --days=7 --output=channel/dens.tv.xml
 
       - name: Commit and Push EPG Output for dens.tv
         env:
@@ -175,7 +175,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for indihometv.com
-        run: npm run grab -- --site=indihometv.com --lang=id --output=channel/indihometv.com.xml
+        run: npm run grab -- --site=indihometv.com --lang=id --days=7 --output=channel/indihometv.com.xml
 
       - name: Commit and Push EPG Output for indihometv.com
         env:
@@ -205,7 +205,7 @@ jobs:
       - run: npm install
 
       - name: Grab EPG for vidio.com
-        run: npm run grab -- --site=vidio.com --lang=id --output=channel/vidio.com.xml
+        run: npm run grab -- --site=vidio.com --lang=id --days=7 --output=channel/vidio.com.xml
 
       - name: Commit and Push EPG Output for vidio.com
         env:
