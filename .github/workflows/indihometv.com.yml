@@ -25,7 +25,7 @@ jobs:
       - name: Generate EPG Output for indihometv.com
         run: |
           cd epg
-          npm run grab -- --site=indihometv.com --lang=id
+          npm run grab -- --site=indihometv.com --lang=id --days=1 --maxConnections=10
           mv guide.xml ../channel/indihometv.com.xml
 
       - name: Commit and Push EPG Output to Your Repository
