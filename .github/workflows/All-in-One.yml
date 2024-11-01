@@ -221,7 +221,7 @@ jobs:
           git commit -m "Update EPG output for vidio.com [skip ci]" || echo "No changes to commit"
           git push origin master
 
-  nowplayer-now-com:
+  update-nowplayer:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -234,7 +234,7 @@ jobs:
 
       - run: npm install
 
-      - name: Grab EPG for player.ee.co.uk
+      - name: Grab EPG for nowplayer.now.com
         run: npm run grab -- --site=nowplayer.now.com --lang=en --days=7 --output=channel/nowplayer.now.com.xml
 
       - name: Commit and Push EPG Output for nowplayer.now.com
