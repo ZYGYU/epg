@@ -3,7 +3,7 @@ name: EPG Update for mncvision.id
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 1 */3 * *"  # Runs every day at midnight
+    - cron: "17 17 */3 * *"  # Runs every day at midnight
 
 jobs:
   update_mncvision:
